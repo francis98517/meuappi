@@ -28,7 +28,7 @@
   "license": "SEE LICENSE IN ./LICENSE",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typicode/json-server.git"
+    "url": "git+https://github.com/francis98517/meuappi.git"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.0",
@@ -55,6 +55,7 @@
     "dot-prop": "^9.0.0",
     "eta": "^3.5.0",
     "inflection": "^3.0.0",
+    "json-server": "^1.0.0-beta.3",
     "json5": "^2.2.3",
     "lowdb": "^7.0.1",
     "milliparsec": "^4.0.0",
