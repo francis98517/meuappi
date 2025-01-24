@@ -1,13 +1,59 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title" },
-    { "id": "2", "title": "another title" }
+  "users": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@email.com",
+      "codigo_convite": "ABC123",
+      "saldo": 500,
+      "data_cadastro": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@email.com",
+      "codigo_convite": "DEF456",
+      "saldo": 1200,
+      "data_cadastro": "2025-01-10"
+    }
   ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  "retiradas": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "valor": 100,
+      "data": "2025-01-15",
+      "status": "concluída"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "valor": 200,
+      "data": "2025-01-20",
+      "status": "pendente"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Produto 1",
+      "descricao": "Descrição do produto 1",
+      "preco": 150,
+      "quantidade_em_estoque": 20
+    },
+    {
+      "id": 2,
+      "nome": "Produto 2",
+      "descricao": "Descrição do produto 2",
+      "preco": 300,
+      "quantidade_em_estoque": 15
+    },
+    {
+      "id": 3,
+      "nome": "Produto 3",
+      "descricao": "Descrição do produto 3",
+      "preco": 50,
+      "quantidade_em_estoque": 50
+    }
+  ]
 }
