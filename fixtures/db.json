@@ -1,7 +1,7 @@
 {
-  "users": [
+  "usuarios": [
     {
-      "id": 1,
+      "id": "1",
       "name": "João Silva",
       "email": "joao.silva@email.com",
       "codigo_convite": "ABC123",
@@ -9,51 +9,23 @@
       "data_cadastro": "2025-01-01"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Maria Oliveira",
       "email": "maria.oliveira@email.com",
       "codigo_convite": "DEF456",
       "saldo": 1200,
       "data_cadastro": "2025-01-10"
+    },
+    {
+      "id": "20f1",
+      "nome": "Adriano António",
+      "email": "adrianosorte50@gmail.com",
+      "senha": "Apj12345",
+      "codigo_convite": "2lysbnc8",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
     }
   ],
-  "retiradas": [
-    {
-      "id": 1,
-      "user_id": 1,
-      "valor": 100,
-      "data": "2025-01-15",
-      "status": "concluída"
-    },
-    {
-      "id": 2,
-      "user_id": 2,
-      "valor": 200,
-      "data": "2025-01-20",
-      "status": "pendente"
-    }
-  ],
-  "produtos": [
-    {
-      "id": 1,
-      "nome": "Produto 1",
-      "descricao": "Descrição do produto 1",
-      "preco": 150,
-      "quantidade_em_estoque": 20
-    },
-    {
-      "id": 2,
-      "nome": "Produto 2",
-      "descricao": "Descrição do produto 2",
-      "preco": 300,
-      "quantidade_em_estoque": 15
-    },
-    {
-      "id": 3,
-      "nome": "Produto 3",
-      "descricao": "Descrição do produto 3",
-      "preco": 50,
-      "quantidade_em_estoque": 50
-    }
-  ]
+  "retiradas": [],
+  "produtos": []
 }
