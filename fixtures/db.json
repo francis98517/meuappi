@@ -1,5 +1,34 @@
 {
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Produto 1",
+      "descricao": "Descrição do Produto 1",
+      "preco": 100.00
+    },
+    {
+      "id": 2,
+      "nome": "Produto 2",
+      "descricao": "Descrição do Produto 2",
+      "preco": 150.00
+    }
+  ],
+  "retiradas": [
+    {
+      "id": 1,
+      "produtoId": 1,
+      "quantidade": 2,
+      "data": "2025-01-26"
+    },
+    {
+      "id": 2,
+      "produtoId": 2,
+      "quantidade": 1,
+      "data": "2025-01-26"
+    }
+  ],
   "usuarios": [
+  
     {
       "id": "1",
       "name": "João Silva",
@@ -8,15 +37,15 @@
       "saldo": 500,
       "data_cadastro": "2025-01-01",
       "produtos_comprados": [
-        "p01",
-        "p02"
+          "p01",
+          "p02"
       ],
       "retiradas_realizadas": [
-        "r01",
-        "r02"
+          "r01",
+          "r02"
       ]
-    },
-    {
+  },
+  {
       "id": "2",
       "name": "Maria Oliveira",
       "email": "maria.oliveira@email.com",
@@ -24,13 +53,13 @@
       "saldo": 1200,
       "data_cadastro": "2025-01-10",
       "produtos_comprados": [
-        "p03"
+          "p03"
       ],
       "retiradas_realizadas": [
-        "r03"
+          "r03"
       ]
-    },
-    {
+  },
+  {
       "id": "20f1",
       "nome": "Adriano António",
       "email": "adrianosorte50@gmail.com",
@@ -40,8 +69,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "392c",
       "nome": "Investidor Digital",
       "email": "investidordigital2023@gmail.com",
@@ -51,8 +80,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "a097",
       "nome": "Mauro Baptista ",
       "email": "maurobaptista190@gmail.com",
@@ -62,8 +91,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "1f3c",
       "nome": "Fernando ",
       "email": "Fernandokapingala4@gmail.com",
@@ -73,8 +102,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "d577",
       "nome": "José Samuel",
       "email": "Josesamuel2023@icloud.com",
@@ -84,8 +113,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "2b67",
       "nome": "Hamilton Amós Adriano Cahete ",
       "email": "arielhamiltoncahete@gmail.com",
@@ -95,8 +124,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "ed15",
       "nome": "Lembejeka ",
       "email": "patriciaesteves472@gmail.com",
@@ -106,8 +135,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "b7d0",
       "nome": "Delcio Cassai",
       "email": "delciocastelo267@gmail.com",
@@ -117,8 +146,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "4a3d",
       "nome": "Jft",
       "email": "ggdggdgs@gmail.com",
@@ -128,8 +157,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "7ec5",
       "nome": "Adilson Nogueira ",
       "email": "adilsonmanuel678@gmail.com",
@@ -139,8 +168,8 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    },
-    {
+  },
+  {
       "id": "a864",
       "nome": "Jft",
       "email": "joaotroco8@gmail.com",
@@ -150,49 +179,1175 @@
       "saldo": 0,
       "produtos_comprados": [],
       "retiradas_realizadas": []
-    }
-  ],
-  "produtos": [
-    {
-      "id_produto": "p01",
-      "nome": "Produto A",
-      "descricao": "Descrição do Produto A",
-      "preco": 100,
-      "estoque": 100
-    },
-    {
-      "id_produto": "p02",
-      "nome": "Produto B",
-      "descricao": "Descrição do Produto B",
-      "preco": 200,
-      "estoque": 50
-    },
-    {
-      "id_produto": "p03",
-      "nome": "Produto C",
-      "descricao": "Descrição do Produto C",
-      "preco": 150,
-      "estoque": 75
-    }
-  ],
-  "retiradas": [
-    {
-      "id_retirada": "r01",
-      "usuario_id": "1",
-      "valor": 100,
-      "data": "2025-01-15"
-    },
-    {
-      "id_retirada": "r02",
-      "usuario_id": "1",
-      "valor": 50,
-      "data": "2025-01-20"
-    },
-    {
-      "id_retirada": "r03",
-      "usuario_id": "2",
-      "valor": 200,
-      "data": "2025-01-18"
-    }
-  ]
+  },
+  {
+      "id": "c9f1",
+      "nome": "Alfredo Aurélio",
+      "email": "aurorabaltazar113@gmail.com",
+      "senha": "Hash1ram@",
+      "codigo_convite": "odnloboj",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "b312",
+      "nome": "Holden Álvaro ",
+      "email": "tidinheiro10@gmail.com",
+      "senha": "V0r0n0c0",
+      "codigo_convite": "mjabmacm",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "9753",
+      "nome": "Manuel Adão",
+      "email": "manueladaomonteiro@gmail.com",
+      "senha": "Mongueno_8",
+      "codigo_convite": "wvolk1n3",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "2f63",
+      "nome": "Manuel Adão",
+      "email": "manueladaomonteiro@gmail.com",
+      "senha": "Mongueno_8",
+      "codigo_convite": "tu0uymhs",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "05cf",
+      "nome": "Faray",
+      "email": "zacariasfaray77@gmail.com",
+      "senha": "Desbravadores1$",
+      "codigo_convite": "cc25x7o0",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "46c8",
+      "nome": "Kajama",
+      "email": "deutrondega@gmail.com",
+      "senha": "Degadega.5",
+      "codigo_convite": "18rfpj56",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "53a7",
+      "nome": "Homem kumbo ",
+      "email": "horaciopereiragomesgomes@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "vpwda73c",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "e178",
+      "nome": "Homem kumbo ",
+      "email": "horaciopereiragomesgomes@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "0py7diwy",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "f78a",
+      "nome": "Bonifácio Carlos Horácio ",
+      "email": "hernanycarlos30@igmail.com",
+      "senha": "horaci",
+      "codigo_convite": "ul1emud9",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "c606",
+      "nome": "Mildo José Coge",
+      "email": "cogemildo50@gmail.com",
+      "senha": "212121",
+      "codigo_convite": "io8nc0b9",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "9e6e",
+      "nome": "Domigos Pedro",
+      "email": "joaquimacj66@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "gapuqr4k",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "7584",
+      "nome": "Elias Mendonça ",
+      "email": "elianebumbamendonca@gmail.com",
+      "senha": "050924",
+      "codigo_convite": "ziuijntg",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "3770",
+      "nome": "Maissa José ",
+      "email": "carlomaissa@gmail.com",
+      "senha": "Vilanova",
+      "codigo_convite": "0cvj66gm",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "87d3",
+      "nome": "Ricardo Pirâmide ",
+      "email": "Ricardoleone4750@gmail.com",
+      "senha": "Piramide2025",
+      "codigo_convite": "xuotke28",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "0d3b",
+      "nome": "Sílvia Oliveira ",
+      "email": "rosatelefone499@gmail.com",
+      "senha": "Investiment0",
+      "codigo_convite": "1witoq5n",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "6cfd",
+      "nome": "Kelson ",
+      "email": "pkelson157@gmail.com",
+      "senha": "995660",
+      "codigo_convite": "dyfofx33",
+      "codigo_convite_referido": "dtxenthd",
+      "saldo": 0
+  },
+  {
+      "id": "7298",
+      "nome": "Sílvia Oliveira ",
+      "email": "telemovelazul1@gmail.com",
+      "senha": "Investiment0",
+      "codigo_convite": "w610jz5k",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "0462",
+      "nome": "Anita Chaves ",
+      "email": "fredthefather1999@gmail.com",
+      "senha": "Edmilson2211",
+      "codigo_convite": "e789g4y4",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "287b",
+      "nome": "Pensador Abismal",
+      "email": "samsumga0330@gmail.com",
+      "senha": "248650",
+      "codigo_convite": "9jsswlnm",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 2500
+  },
+  {
+      "id": "3848",
+      "nome": "Pensador Abismal",
+      "email": "samsumga0330@gmail.com",
+      "senha": "248650",
+      "codigo_convite": "q1vkyvvc",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "101a",
+      "nome": "Cristiano Manuel",
+      "email": "947735568c@gmail.com",
+      "senha": "CAPELA",
+      "codigo_convite": "k2hgdbxa",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "7350",
+      "nome": "Francisco Avelino ",
+      "email": "francis.avldmgs@gmail.com",
+      "senha": "041987",
+      "codigo_convite": "9lbbn9h5",
+      "codigo_convite_referido": "18rfpj56",
+      "saldo": 0
+  },
+  {
+      "id": "dceb",
+      "nome": "imprezariocarlos",
+      "email": "imprezariocarlos@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "nv0txasz",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "83f3",
+      "nome": "imprezariocarlos",
+      "email": "imprezariocarlos@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "nr4hpphd",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "f4e7",
+      "nome": "Egídio Scott",
+      "email": "egidioscott20@gmail.com",
+      "senha": "Camuenhe1",
+      "codigo_convite": "a9v6zkeo",
+      "codigo_convite_referido": "wvolk1n3",
+      "saldo": 0
+  },
+  {
+      "id": "c746",
+      "nome": "Andre Clemente Antonio",
+      "email": "andreclementeantonio@gmail.com",
+      "senha": "Tropicalizado92",
+      "codigo_convite": "1ykkcr8j",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "ea4c",
+      "nome": "Abreu Tucambala",
+      "email": "abreuluzidio66@gmail.com",
+      "senha": "Tucambala!7",
+      "codigo_convite": "l4w7xuxm",
+      "codigo_convite_referido": "wvolk1n3",
+      "saldo": 1000
+  },
+  {
+      "id": "1006",
+      "nome": "Daniel Nsoki Mbimbu",
+      "email": "danilodany908@gmail.com",
+      "senha": "danilo@30",
+      "codigo_convite": "06szqkej",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+  },
+  {
+      "id": "fe27",
+      "nome": "Daniel Nsoki Mbimbu",
+      "email": "danilodany908@gmail.com",
+      "senha": "danilo@30",
+      "codigo_convite": "mvi43odt",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+  },
+  {
+      "id": "79aa",
+      "nome": "Daniel Nsoki Mbimbu",
+      "email": "danilodany908@gmail.com",
+      "senha": "danilo@30",
+      "codigo_convite": "ovuo3uru",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+  },
+  {
+      "id": "7b6e",
+      "nome": "Jaime De Almeida ",
+      "email": "Jaimejesse4@gmail.com",
+      "senha": "199627cad.",
+      "codigo_convite": "hzbdnsz9",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "177c",
+      "nome": "Xavier Sikaleta ",
+      "email": "xaviersikaleta@gmail.com",
+      "senha": "Sikaleta",
+      "codigo_convite": "gpusx45p",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "c0ba",
+      "nome": "Johny Valdemar",
+      "email": "joaokachota.jk@gmail.com",
+      "senha": "papycelm@",
+      "codigo_convite": "cqtfl32y",
+      "codigo_convite_referido": "mjabmacm",
+      "saldo": 0
+  },
+  {
+      "id": "edb7",
+      "nome": "Fernando Kilmer Zinho José ",
+      "email": "kilmerjose010@gmail.com",
+      "senha": "261026",
+      "codigo_convite": "srn0e4p0",
+      "codigo_convite_referido": "9jsswlnm",
+      "saldo": 0
+  },
+  {
+      "id": "076b",
+      "nome": "Ricardo",
+      "email": "madalenal0539@gmail.com",
+      "senha": "madalena4750",
+      "codigo_convite": "5t36b7ea",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "ae93",
+      "nome": "Maria Futi Gomes ",
+      "email": "mildagomesgomes@gmail.com",
+      "senha": "nozdym-gismyf-Myrzo2",
+      "codigo_convite": "l64oh334",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "417c",
+      "nome": "Samuel José Carlos Maurício ",
+      "email": "samuelcarlos121314tem@gmail.com",
+      "senha": "Sami1234",
+      "codigo_convite": "07g4g6i7",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "4717",
+      "nome": "Nilton Nhani ",
+      "email": "niltonnhani5@gmail.com",
+      "senha": "Elizandra17",
+      "codigo_convite": "v2kaknmw",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "46ca",
+      "nome": "Kielson Leonel Victorino Guerreiro ",
+      "email": "elianoguerreiro19@gmail.com",
+      "senha": "eliano123",
+      "codigo_convite": "j4j96w6x",
+      "codigo_convite_referido": "9jsswlnm",
+      "saldo": 0
+  },
+  {
+      "id": "32ae",
+      "nome": "PEDRO MACOSSO WALA",
+      "email": "macossopedro545@gmail.com",
+      "senha": "070785",
+      "codigo_convite": "woh83qoi",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "2335",
+      "nome": "Eduardo Chilonga ",
+      "email": "constantinoh278@gmail.com",
+      "senha": "jingongo22",
+      "codigo_convite": "6esnnkar",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "ffc4",
+      "nome": "Eduardo Chilonga ",
+      "email": "constantinoh278@gmail.com",
+      "senha": "jingongo22",
+      "codigo_convite": "q14b30ut",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "4507",
+      "nome": "Frederico Silva ",
+      "email": "lilfred943@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "2pjk8xts",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "75f8",
+      "nome": "Helder Calheiros",
+      "email": "heldercalheiros91@gmail.com",
+      "senha": "Helder3",
+      "codigo_convite": "ya4bmsv8",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "70c0",
+      "nome": "Dário Ndala",
+      "email": "maquiandb@gmail.com",
+      "senha": "Tudodenovo23",
+      "codigo_convite": "882lkoj3",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "fec2",
+      "nome": "Junilson Gonga",
+      "email": "kazeesongz@gmail.com",
+      "senha": "kazeesongzgonga9",
+      "codigo_convite": "3c3v3hyp",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "aef4",
+      "nome": "Jacinto ",
+      "email": "dacostajacinto877@gmail.com",
+      "senha": "jaisti",
+      "codigo_convite": "5t4cdx6b",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "1444",
+      "nome": "Ezequiel Sabino",
+      "email": "ezequielsaluwawa@gmail.com",
+      "senha": "Ezequiel2003@",
+      "codigo_convite": "lfpmh317",
+      "codigo_convite_referido": "dtxenthd",
+      "saldo": 0
+  },
+  {
+      "id": "acc2",
+      "nome": "Manuel Domingos Diogo Waquinga ",
+      "email": "manueldomingosdiogowaquingawaq@gmail.com",
+      "senha": "Atomicos@1",
+      "codigo_convite": "f355zaoe",
+      "codigo_convite_referido": "0cvj66gm",
+      "saldo": 0
+  },
+  {
+      "id": "cd40",
+      "nome": "Prazeres py",
+      "email": "prazeresadilson98@gmail.com",
+      "senha": "Adilson00",
+      "codigo_convite": "xtimwxuk",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "1619",
+      "nome": "Domingos Pedro Gabriel",
+      "email": "domingospedrogabrieldominick@gmail.com",
+      "senha": "Domingos@9",
+      "codigo_convite": "rg03zslm",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "5ed0",
+      "nome": "Samuel pedro",
+      "email": "Samueljaimepedro@gmail.com",
+      "senha": "qwertyuii",
+      "codigo_convite": "3ar69yuj",
+      "codigo_convite_referido": "0cvj66gm",
+      "saldo": 0
+  },
+  {
+      "id": "0321",
+      "nome": "Samuel pedro",
+      "email": "Samueljaimepedro@gmail.com",
+      "senha": "qwertyuii",
+      "codigo_convite": "1ksgc40b",
+      "codigo_convite_referido": "0cvj66gm",
+      "saldo": 0
+  },
+  {
+      "id": "08fd",
+      "nome": "Samuel pedro",
+      "email": "Samueljaimepedro@gmail.com",
+      "senha": "qwertyuii",
+      "codigo_convite": "ew2yt76o",
+      "codigo_convite_referido": "0cvj66gm",
+      "saldo": 0
+  },
+  {
+      "id": "b0cc",
+      "nome": "Simões Domingos ",
+      "email": "silviohdomingos@gmail.com",
+      "senha": "SÍLVIOH",
+      "codigo_convite": "4o2995mi",
+      "codigo_convite_referido": "9jsswlnm",
+      "saldo": 0
+  },
+  {
+      "id": "135a",
+      "nome": "Luis carlos",
+      "email": "kessongo31@gmail.com",
+      "senha": "kessongo",
+      "codigo_convite": "b8w2sqjx",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "fe73",
+      "nome": "Jorge Manuel Murrayn ",
+      "email": "jorgemurrayn100@gmail.com",
+      "senha": "gm12jor05",
+      "codigo_convite": "fj3qa615",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "a631",
+      "nome": "Lucinda Miguel",
+      "email": "mariajoia549@gmail.com",
+      "senha": "Lucinda123#",
+      "codigo_convite": "dfkl7xqx",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "aeb1",
+      "nome": "Lucinda Miguel",
+      "email": "mariajoia549@gmail.com",
+      "senha": "Lucinda123#",
+      "codigo_convite": "plc9gi7f",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "22ac",
+      "nome": "Pedro",
+      "email": "pedrojaoqui33@gmail.com",
+      "senha": "9224468pedro",
+      "codigo_convite": "iyrk7hz5",
+      "codigo_convite_referido": "gapuqr4k",
+      "saldo": 0
+  },
+  {
+      "id": "3d8f",
+      "nome": "Assis Bush Sessa ",
+      "email": "assisbushsessa@gmail.com",
+      "senha": "882669",
+      "codigo_convite": "xvkr7kr3",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "c36f",
+      "nome": "Assis Bush Sessa ",
+      "email": "assisbushsessa@gmail.com",
+      "senha": "882669",
+      "codigo_convite": "xq7k0apl",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "42a7",
+      "nome": "Yuri Augusto Verissimo ",
+      "email": "yuriaugustoverissimo@gmail.com",
+      "senha": "Reiras8",
+      "codigo_convite": "ao45gf99",
+      "codigo_convite_referido": "wvolk1n3",
+      "saldo": 0
+  },
+  {
+      "id": "e132",
+      "nome": "Esmeralda Germana Garcia wendo ",
+      "email": "esmeraldawendo@gmail.com",
+      "senha": "germana",
+      "codigo_convite": "q8eg186m",
+      "codigo_convite_referido": "5t36b7ea",
+      "saldo": 0
+  },
+  {
+      "id": "8b3d",
+      "nome": "José kalenga ",
+      "email": "josetucho645@gmail.com",
+      "senha": "Ndjolela23",
+      "codigo_convite": "gwwl5shb",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "1ced",
+      "nome": "José kalenga ",
+      "email": "josetucho645@gmail.com",
+      "senha": "Ndjolela23",
+      "codigo_convite": "0farpzbu",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "6b1b",
+      "nome": "Maria Nangombo",
+      "email": "marianangombo98@gmail.com",
+      "senha": "124512",
+      "codigo_convite": "njzflwzl",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "ff73",
+      "nome": "Nsingui Sebastião Leonardo",
+      "email": "nsinguisebastiaoleonardo@gmail.com",
+      "senha": "nsinguileo",
+      "codigo_convite": "lrx4t71m",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "af21",
+      "nome": "Elvis João",
+      "email": "elvisrainhodogelo@gmail.com",
+      "senha": "Angola25",
+      "codigo_convite": "sdoh2c6a",
+      "codigo_convite_referido": "227pbeyd",
+      "saldo": 0
+  },
+  {
+      "id": "9521",
+      "nome": "Guilherme Jose",
+      "email": "marcioguito@gmail.com",
+      "senha": "Guito77",
+      "codigo_convite": "3gmxhqxw",
+      "codigo_convite_referido": "hzbdnsz9",
+      "saldo": 0
+  },
+  {
+      "id": "4888",
+      "nome": "Martins Kanganjo",
+      "email": "kanganjo.acirc@gmail.com",
+      "senha": "kanganjojr2020",
+      "codigo_convite": "cgto9ba0",
+      "codigo_convite_referido": "cqtfl32y",
+      "saldo": 0
+  },
+  {
+      "id": "554d",
+      "nome": "Alfredo Freitas ",
+      "email": "freitasalfredofreitas52@gmail.co",
+      "senha": "fredyy",
+      "codigo_convite": "rgnw75ph",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "1d06",
+      "nome": "Domingas Lurdes  ",
+      "email": "domingaschipac@gmail.com",
+      "senha": "domingaa",
+      "codigo_convite": "w7q6y8e1",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "994b",
+      "nome": "Cecília Da Silva",
+      "email": "ceciliadasilvamonteiro85@gmail.com",
+      "senha": "160924",
+      "codigo_convite": "em7vvywy",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "0545",
+      "nome": "Herbert Costa",
+      "email": "herbertcosta00@gmail.com",
+      "senha": "Deusefiel1991",
+      "codigo_convite": "t0jydxhk",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "4608",
+      "nome": "Adelino Ekuvo",
+      "email": "Adelinocamota23@gmail.com",
+      "senha": "9287596",
+      "codigo_convite": "t62z0m0i",
+      "codigo_convite_referido": "882lkoj3",
+      "saldo": 0
+  },
+  {
+      "id": "ff4c",
+      "nome": "António Manuel Hossi Canganjo ",
+      "email": "antonioskindoso@gmil.com",
+      "senha": "scurinho",
+      "codigo_convite": "3ma5hh5v",
+      "codigo_convite_referido": "cqtfl32y",
+      "saldo": 0
+  },
+  {
+      "id": "9b78",
+      "nome": "Alexandre Cabanga ",
+      "email": "alealexandrengola@gmail.com",
+      "senha": "Dicla1313/",
+      "codigo_convite": "azy4g9ch",
+      "codigo_convite_referido": "5t36b7ea",
+      "saldo": 0
+  },
+  {
+      "id": "b826",
+      "nome": "Alexandre Cabanga ",
+      "email": "alealexandrengola@gmail.com",
+      "senha": "Dicla1313/",
+      "codigo_convite": "enbt96x6",
+      "codigo_convite_referido": "5t36b7ea",
+      "saldo": 0
+  },
+  {
+      "id": "eaab",
+      "nome": "Ferreira Damião Luiz ",
+      "email": "ferreiradamiao.252080@gmail.com",
+      "senha": "Ferreira252090",
+      "codigo_convite": "fcyuhgjl",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "d242",
+      "nome": "Ferreira Damião Luiz ",
+      "email": "ferreiradamiao.252080@gmail.com",
+      "senha": "Ferreira252090",
+      "codigo_convite": "utv1awl0",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "3e6e",
+      "nome": "Ferreira Damião Luiz ",
+      "email": "ferreiradamiao.252080@gmail.com",
+      "senha": "Ferreira252090",
+      "codigo_convite": "yt8j55q9",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "adcd",
+      "nome": "Vieira Manuel Damião",
+      "email": "feedback524@gmail.com",
+      "senha": "Vier@1992",
+      "codigo_convite": "z2wuib01",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "f9ef",
+      "nome": "Horácio Luwawa Ernesto Justo ",
+      "email": "horaciojusto121@gmail.com",
+      "senha": "403038",
+      "codigo_convite": "ho5l2fpd",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "4262",
+      "nome": "Flávio José ",
+      "email": "flaviosamucanda@gmail.com",
+      "senha": "anabelaa",
+      "codigo_convite": "8bsuk760",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "a4b1",
+      "nome": "Eugénio Sapalo Manuel Calipi ",
+      "email": "eugeniosapalo7@gmail.com",
+      "senha": "1Edvoicyy",
+      "codigo_convite": "vzc0tr1v",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "7f7b",
+      "nome": "Osvaldo Baptista ",
+      "email": "baptistaosvaldo14@gmail.com",
+      "senha": "Benedita",
+      "codigo_convite": "tcyn3zj6",
+      "codigo_convite_referido": "9jsswlnm",
+      "saldo": 0
+  },
+  {
+      "id": "765a",
+      "nome": "vitóriano Catuku",
+      "email": "victorcatuku@gmail.com",
+      "senha": "poiupp",
+      "codigo_convite": "1wb45zp5",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "3b0e",
+      "nome": "vitóriano Catuku",
+      "email": "victorcatuku@gmail.com",
+      "senha": "poiupp",
+      "codigo_convite": "n4vunh5t",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0
+  },
+  {
+      "id": "9b44",
+      "nome": "Diogo Samundongo",
+      "email": "diogoernesto72@gmail.com",
+      "senha": "Manapaci",
+      "codigo_convite": "wnkaf8np",
+      "codigo_convite_referido": "hzbdnsz9",
+      "saldo": 0
+  },
+  {
+      "id": "543b",
+      "nome": "Isaías cassequel Katchekele Huma",
+      "email": "isaiashuma638@gmail.com",
+      "senha": "000000",
+      "codigo_convite": "iwtsd1bn",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "3553",
+      "nome": "Isaías cassequel Katchekele Huma",
+      "email": "isaiashuma638@gmail.com",
+      "senha": "000000",
+      "codigo_convite": "szoobsbl",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "c0bb",
+      "nome": "Paulo Manuel Messele ",
+      "email": "paulitomanuel137@gmail.com",
+      "senha": "931229899",
+      "codigo_convite": "on9m31pj",
+      "codigo_convite_referido": "hzbdnsz9",
+      "saldo": 0
+  },
+  {
+      "id": "d8bc",
+      "nome": "Santiago Estretinho ",
+      "email": "santos.henques@gmail.com",
+      "senha": "928043",
+      "codigo_convite": "9y8azp46",
+      "codigo_convite_referido": "18rfpj56",
+      "saldo": 0
+  },
+  {
+      "id": "fc79",
+      "nome": "Belchior ",
+      "email": "bellantonio0000@gmail.com",
+      "senha": "SenhaPronta",
+      "codigo_convite": "0lyfjm0v",
+      "codigo_convite_referido": "2lysbnc8",
+      "saldo": 0
+  },
+  {
+      "id": "befe",
+      "nome": "Belchior ",
+      "email": "bellantonio0000@gmail.com",
+      "senha": "SenhaPronta",
+      "codigo_convite": "tgyhgwez",
+      "codigo_convite_referido": "2lysbnc8",
+      "saldo": 0
+  },
+  {
+      "id": "ef1d",
+      "nome": "Gaspar Daniel Avelino",
+      "email": "gsprln25@gmail.com",
+      "senha": "Gaspar25",
+      "codigo_convite": "o3n9ai1a",
+      "codigo_convite_referido": "882lkoj3",
+      "saldo": 0
+  },
+  {
+      "id": "928b",
+      "nome": "Gaspar Daniel Avelino",
+      "email": "gsprln25@gmail.com",
+      "senha": "Gaspar25",
+      "codigo_convite": "knwls0q9",
+      "codigo_convite_referido": "882lkoj3",
+      "saldo": 0
+  },
+  {
+      "id": "2114",
+      "nome": "Gaspar Daniel Avelino",
+      "email": "gsprln25@gmail.com",
+      "senha": "Gaspar25",
+      "codigo_convite": "reudozpn",
+      "codigo_convite_referido": "882lkoj3",
+      "saldo": 0
+  },
+  {
+      "id": "e02a",
+      "nome": "Ermelinda Da Silva Galangunga ",
+      "email": "janysilvajany332@gmail.com",
+      "senha": "923405183",
+      "codigo_convite": "znrbn0a9",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "9f22",
+      "nome": "Victorino ",
+      "email": "victorinogouveia8@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "khm9r2rd",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "d57a",
+      "nome": "Victorino ",
+      "email": "victorinogouveia8@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "4c93z5ut",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  },
+  {
+      "id": "e315",
+      "nome": "Maria Camela",
+      "email": "mariacamela229@gmail.com",
+      "senha": "609658",
+      "codigo_convite": "vj2kcirf",
+      "codigo_convite_referido": "0cvj66gm",
+      "saldo": 0
+  },
+  {
+      "id": "3e6e",
+      "nome": "Paulo Santos ",
+      "email": "luandajesse88@gmail.com",
+      "senha": "199627cad.",
+      "codigo_convite": "2u45chfn",
+      "codigo_convite_referido": "hzbdnsz9",
+      "saldo": 0
+  },
+  {
+      "id": "b27d",
+      "nome": "Ivito Pedro",
+      "email": "ivitopedro4@gmail.com",
+      "senha": "Ivito99",
+      "codigo_convite": "pye7wul4",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "2295",
+      "nome": "Armindo José",
+      "email": "richarmindojose@gmail.com",
+      "senha": "923365803Aj.",
+      "codigo_convite": "a3dnu34k",
+      "codigo_convite_referido": "fcyuhgjl",
+      "saldo": 0
+  },
+  {
+      "id": "58fe",
+      "nome": "Ana Saluwawa",
+      "email": "aurorasaluwawa@gmail.com",
+      "senha": "Aurora1234",
+      "codigo_convite": "4m78sjjm",
+      "codigo_convite_referido": "lfpmh317",
+      "saldo": 0
+  },
+  {
+      "id": "bdb4",
+      "nome": "Honório Nicolau",
+      "email": "honorionicolau2@gmail.com",
+      "senha": "onepiece1000",
+      "codigo_convite": "jnhspip6",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "201d",
+      "nome": "Abraão de Jesus",
+      "email": "abdrisolda947@gmail.com",
+      "senha": "123456789Dalsira",
+      "codigo_convite": "67fv92rd",
+      "codigo_convite_referido": "5t36b7ea",
+      "saldo": 0
+  },
+  {
+      "id": "dc62",
+      "nome": "Débia Natacha Prisco Martins",
+      "email": "debiamartins14@gmail.com",
+      "senha": "200912",
+      "codigo_convite": "u0lwhqik",
+      "codigo_convite_referido": "tcyn3zj6",
+      "saldo": 0
+  },
+  {
+      "id": "7dbc",
+      "nome": "Jeovani",
+      "email": "jeowonder@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "p6awy4vw",
+      "codigo_convite_referido": "882lkoj3",
+      "saldo": 0
+  },
+  {
+      "id": "5fd8",
+      "nome": "Nicolau Guedes",
+      "email": "nicolauguedes54@gmail.com",
+      "senha": "Baller10",
+      "codigo_convite": "j4qp3o3n",
+      "codigo_convite_referido": "mjabmacm",
+      "saldo": 0
+  },
+  {
+      "id": "5cac",
+      "nome": "Ernesto Chivinda Cavaia ",
+      "email": "ernestochivindac@gmail.com",
+      "senha": "Luismario",
+      "codigo_convite": "bvgrvzou",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "e5f1",
+      "nome": "João Mário Muamuxinda de castelo ",
+      "email": "joaomariocastelo@icloud.com",
+      "senha": "Valita19",
+      "codigo_convite": "1cj2bx4y",
+      "codigo_convite_referido": "azy4g9ch",
+      "saldo": 0
+  },
+  {
+      "id": "f59e",
+      "nome": "Luís ",
+      "email": "luis925100@gmail.com",
+      "senha": "8117@#",
+      "codigo_convite": "0jlwclgi",
+      "codigo_convite_referido": "w7q6y8e1",
+      "saldo": 0
+  },
+  {
+      "id": "aefd",
+      "nome": "Gervásio Maurício Antônio Carlos ",
+      "email": "carlosgervasio048@gmail.com",
+      "senha": "Maurinho",
+      "codigo_convite": "2mddx5zr",
+      "codigo_convite_referido": "azy4g9ch",
+      "saldo": 0
+  },
+  {
+      "id": "ae43",
+      "nome": "Alice Ilda Pedro ",
+      "email": "alicejosepedro8@gmail.com",
+      "senha": "123jose",
+      "codigo_convite": "p9evderr",
+      "codigo_convite_referido": "5t36b7ea",
+      "saldo": 0
+  },
+  {
+      "id": "581a",
+      "nome": "José Hossi Lufuanjimba Tchinhenguenha",
+      "email": "josetchinhenguenha@gmail.com",
+      "senha": "Vlado3171",
+      "codigo_convite": "36tafx43",
+      "codigo_convite_referido": "l64oh334",
+      "saldo": 0
+  },
+  {
+      "id": "1b9d",
+      "nome": "José Miguel Ngana",
+      "email": "josemiguelngana37@gmail.com",
+      "senha": "Miguel2002",
+      "codigo_convite": "ddzoxcai",
+      "codigo_convite_referido": "azy4g9ch",
+      "saldo": 0
+  },
+  {
+      "id": "d923",
+      "nome": "Santos João ",
+      "email": "santoschitangueno@gmail.com",
+      "senha": "20Ghitubb20",
+      "codigo_convite": "0vo70qtt",
+      "codigo_convite_referido": "9jsswlnm",
+      "saldo": 0
+  },
+  {
+      "id": "145d",
+      "nome": "Tilson Filipe ",
+      "email": "tilsonfilipe00@gmail.com",
+      "senha": "944242563",
+      "codigo_convite": "d8l1adec",
+      "codigo_convite_referido": "ho5l2fpd",
+      "saldo": 0
+  },
+  {
+      "id": "2f1b",
+      "nome": "Feliciano Palanga ",
+      "email": "secrefeliciano@gmail.com",
+      "senha": "FELIZARDA20",
+      "codigo_convite": "d8xse93u",
+      "codigo_convite_referido": "lfpmh317",
+      "saldo": 0
+  },
+  {
+      "id": "556d",
+      "nome": "Jorge Bernardo Macaia ",
+      "email": "jorgemacaia@yahoo.com.br",
+      "senha": "000000",
+      "codigo_convite": "z8lcyq5h",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "fe0a",
+      "nome": "Walker Paulo Costa",
+      "email": "abelantonio50000@gmail.com",
+      "senha": "WalkerX",
+      "codigo_convite": "aj7b2xo5",
+      "codigo_convite_referido": "xvkr7kr3",
+      "saldo": 0
+  },
+  {
+      "id": "dd73",
+      "nome": "Gomito Caita",
+      "email": "demitrofcaita@gmail.com",
+      "senha": "Joseraldo1",
+      "codigo_convite": "8dyz3uwe",
+      "codigo_convite_referido": "vpwda73c",
+      "saldo": 0
+  },
+  {
+      "id": "c6b0",
+      "nome": "Cláudio Hichica ",
+      "email": "claudiohichica8@gmail.com",
+      "senha": "934911657",
+      "codigo_convite": "rsr8ux7j",
+      "codigo_convite_referido": "18rfpj56",
+      "saldo": 0
+  },
+  {
+      "id": "8d39",
+      "nome": "Cláudio Hichica ",
+      "email": "claudiohichica8@gmail.com",
+      "senha": "934911657",
+      "codigo_convite": "lo121vqg",
+      "codigo_convite_referido": "18rfpj56",
+      "saldo": 0
+  },
+  {
+      "id": "4e74",
+      "nome": "Yanic chocolate ",
+      "email": "yanicchocolat@gmail.com",
+      "senha": "Yanismilson",
+      "codigo_convite": "xr9syaqd",
+      "codigo_convite_referido": "cc25x7o0",
+      "saldo": 0
+  },
+  {
+      "id": "545a",
+      "nome": "Francisco Raúl ",
+      "email": "franciscoraul301@gmail.com",
+      "senha": "123457",
+      "codigo_convite": "jpo2dos7",
+      "codigo_convite_referido": "mzt9kcuz",
+      "saldo": 0
+  },
+  {
+      "id": "4fee",
+      "nome": "Armando Ng",
+      "email": "paioarmando7@gmail.com",
+      "senha": "Pa10d3xt3r",
+      "codigo_convite": "w9uqic8b",
+      "codigo_convite_referido": "w37o592b",
+      "saldo": 0
+  }  ]
 }
