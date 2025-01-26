@@ -24,8 +24,43 @@
       "codigo_convite": "2lysbnc8",
       "codigo_convite_referido": "ABC123",
       "saldo": 0
+    },
+    {
+      "id": "392c",
+      "nome": "Investidor Digital",
+      "email": "investidordigital2023@gmail.com",
+      "senha": "Angola12*",
+      "codigo_convite": "k2aj5ffw",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
     }
   ],
-  "retiradas": [],
-  "produtos": []
+  "retiradas": [
+    {
+      "id_usuario": "1",
+      "valor": 200,
+      "data_retirada": "2025-01-15"
+    },
+    {
+      "id_usuario": "2",
+      "valor": 500,
+      "data_retirada": "2025-01-20"
+    }
+  ],
+  "produtos": [
+    {
+      "id_produto": "p1",
+      "nome_produto": "Produto A",
+      "valor_produto": 100,
+      "id_usuario": "1",
+      "data_compra": "2025-01-05"
+    },
+    {
+      "id_produto": "p2",
+      "nome_produto": "Produto B",
+      "valor_produto": 300,
+      "id_usuario": "2",
+      "data_compra": "2025-01-12"
+    }
+  ]
 }
