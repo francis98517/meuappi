@@ -1,66 +1,180 @@
-{
-  "usuarios": [
-    {
+[
+  {
       "id": "1",
       "name": "João Silva",
       "email": "joao.silva@email.com",
       "codigo_convite": "ABC123",
       "saldo": 500,
-      "data_cadastro": "2025-01-01"
-    },
-    {
+      "data_cadastro": "2025-01-01",
+      "produtos": [
+          {
+              "id_produto": "p01",
+              "nome": "Produto A",
+              "quantidade": 2,
+              "preco_unitario": 100
+          },
+          {
+              "id_produto": "p02",
+              "nome": "Produto B",
+              "quantidade": 1,
+              "preco_unitario": 200
+          }
+      ],
+      "retiradas": [
+          {
+              "id_retirada": "r01",
+              "valor": 100,
+              "data": "2025-01-15"
+          },
+          {
+              "id_retirada": "r02",
+              "valor": 50,
+              "data": "2025-01-20"
+          }
+      ]
+  },
+  {
       "id": "2",
       "name": "Maria Oliveira",
       "email": "maria.oliveira@email.com",
       "codigo_convite": "DEF456",
       "saldo": 1200,
-      "data_cadastro": "2025-01-10"
-    },
-    {
+      "data_cadastro": "2025-01-10",
+      "produtos": [
+          {
+              "id_produto": "p03",
+              "nome": "Produto C",
+              "quantidade": 3,
+              "preco_unitario": 150
+          }
+      ],
+      "retiradas": [
+          {
+              "id_retirada": "r03",
+              "valor": 200,
+              "data": "2025-01-18"
+          }
+      ]
+  },
+  {
       "id": "20f1",
       "nome": "Adriano António",
       "email": "adrianosorte50@gmail.com",
       "senha": "Apj12345",
       "codigo_convite": "2lysbnc8",
       "codigo_convite_referido": "ABC123",
-      "saldo": 0
-    },
-    {
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
       "id": "392c",
       "nome": "Investidor Digital",
       "email": "investidordigital2023@gmail.com",
       "senha": "Angola12*",
       "codigo_convite": "k2aj5ffw",
       "codigo_convite_referido": "ABC123",
-      "saldo": 0
-    }
-  ],
-  "retiradas": [
-    {
-      "id_usuario": "1",
-      "valor": 200,
-      "data_retirada": "2025-01-15"
-    },
-    {
-      "id_usuario": "2",
-      "valor": 500,
-      "data_retirada": "2025-01-20"
-    }
-  ],
-  "produtos": [
-    {
-      "id_produto": "p1",
-      "nome_produto": "Produto A",
-      "valor_produto": 100,
-      "id_usuario": "1",
-      "data_compra": "2025-01-05"
-    },
-    {
-      "id_produto": "p2",
-      "nome_produto": "Produto B",
-      "valor_produto": 300,
-      "id_usuario": "2",
-      "data_compra": "2025-01-12"
-    }
-  ]
-}
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "a097",
+      "nome": "Mauro Baptista ",
+      "email": "maurobaptista190@gmail.com",
+      "senha": "000000",
+      "codigo_convite": "vwqv517g",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "1f3c",
+      "nome": "Fernando ",
+      "email": "Fernandokapingala4@gmail.com",
+      "senha": "Jorge2004@",
+      "codigo_convite": "mzt9kcuz",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "d577",
+      "nome": "José Samuel",
+      "email": "Josesamuel2023@icloud.com",
+      "senha": "Jacunana",
+      "codigo_convite": "w37o592b",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "2b67",
+      "nome": "Hamilton Amós Adriano Cahete ",
+      "email": "arielhamiltoncahete@gmail.com",
+      "senha": "Hamilton",
+      "codigo_convite": "82xi8g8r",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "ed15",
+      "nome": "Lembejeka ",
+      "email": "patriciaesteves472@gmail.com",
+      "senha": "948350590",
+      "codigo_convite": "dtxenthd",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "b7d0",
+      "nome": "Delcio Cassai",
+      "email": "delciocastelo267@gmail.com",
+      "senha": "mandedas17",
+      "codigo_convite": "x5oi31lu",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "4a3d",
+      "nome": "Jft",
+      "email": "ggdggdgs@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "30jnrbm7",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "7ec5",
+      "nome": "Adilson Nogueira ",
+      "email": "adilsonmanuel678@gmail.com",
+      "senha": "Aida14&&",
+      "codigo_convite": "227pbeyd",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  },
+  {
+      "id": "a864",
+      "nome": "Jft",
+      "email": "joaotroco8@gmail.com",
+      "senha": "123456",
+      "codigo_convite": "fryt4ts2",
+      "codigo_convite_referido": "k2aj5ffw",
+      "saldo": 0,
+      "produtos": [],
+      "retiradas": []
+  }
+]
