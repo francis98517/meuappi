@@ -2,314 +2,43 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Puxa.o.gerente.para.adicionar",
-      "telefone": "955469119",
-      "senha": "123456",
-      "codigo_convite": "9293456",
-      "codigo_convite_convidou": null,
-      "saldo": 23.000
-    },
-    {
-      "id": 2,
-      "nome": "null",
-      "telefone": "927981219",
-      "senha": "123457",
-      "codigo_convite": "1234567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 23.000
-    },
-    {
-      "id": 3,
-      "nome": "null",
-      "telefone": "923061566",
-      "senha": "123457",
-      "codigo_convite": "123456007",
-      "codigo_convite_convidou": "92093456",
-      "saldo": 54.000
-    },
-    {
-      "id": 4,
-      "nome": "null",
-      "telefone": "945479971",
-      "senha": "123457",
-      "codigo_convite": "123094567",
-      "codigo_convite_convidou": "92936456",
-      "saldo": 12.000
-    },
-    {
-      "id": 5,
-      "nome": "Fernanda",
-      "telefone": "931761370",
-      "senha": "123457",
-      "codigo_convite": "127734567",
-      "codigo_convite_convidou": "92093456",
-      "saldo": 23.000
-    },
-    {
-      "id": 6,
-      "nome": "Laurindo",
-      "telefone": "945479971",
-      "senha": "123457",
-      "codigo_convite": "13234567",
-      "codigo_convite_convidou": "92943456",
-      "saldo": 12.000
-    },
-    {
-      "id": 7,
-      "nome": "Tom",
-      "telefone": "927981219",
-      "senha": "123457",
-      "codigo_convite": "123453567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 23.000
-    },
-    {
-      "id": 8,
-      "nome": "Fernando",
-      "telefone": "931761370",
-      "senha": "123457",
-      "codigo_convite": "123468567",
-      "codigo_convite_convidou": "920993456",
-      "saldo": 23.000
-    },
-    {
-      "id": 9,
-      "nome": "TI Mulla",
-      "telefone": "958 425 168 ",
-      "senha": "123457",
-      "codigo_convite": "1235534567",
-      "codigo_convite_convidou": "912293456",
-      "saldo": 12.000
-    },
-    {
-      "id": 10,
-      "nome": "Antonio",
-      "telefone": "932932020",
-      "senha": "123457",
-      "codigo_convite": "1212234567",
-      "codigo_convite_convidou": "92293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 11,
-      "nome": "Manuel",
-      "telefone": "932932020",
-      "senha": "123457",
-      "codigo_convite": "1234311567",
-      "codigo_convite_convidou": "92931456",
-      "saldo": 1.000
-    },
-    {
-      "id": 12,
-      "nome": "Tilson",
-      "telefone": "922898405",
-      "senha": "123457",
-      "codigo_convite": "1234567000",
-      "codigo_convite_convidou": "98293456",
-      "saldo": 12.000
-    },
-    {
-      "id": 13,
-      "nome": "Pedro",
-      "telefone": "927981219",
-      "senha": "123457",
-      "codigo_convite": "1234513467",
-      "codigo_convite_convidou": "925693456",
-      "saldo": 1.000
-    },
-    {
-      "id": 14,
-      "nome": "null",
-      "telefone": "972197522",
-      "senha": "123457",
-      "codigo_convite": "12387764567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 23.000
-    },
-    {
-      "id": 15,
-      "nome": "Disso",
-      "telefone": "950563118",
-      "senha": "123457",
-      "codigo_convite": "1234123567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 16,
-      "nome": "martins",
-      "telefone": "923372721",
-      "senha": "123457",
-      "codigo_convite": "12341845567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 10.000
-    },
-    {
-      "id": 16,
-      "nome": "ANTONIO",
-      "telefone": "948350590",
-      "senha": "123457",
-      "codigo_convite": "1234577767",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 17,
-      "nome": "Tavares",
-      "telefone": "928933376",
-      "senha": "123457",
-      "codigo_convite": "1234000567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 18,
-      "nome": "tchiek",
-      "telefone": "931275743",
-      "senha": "123457",
-      "codigo_convite": "1234000567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 23.000
-    },
-    {
-      "id": 19,
-      "nome": "Sade",
-      "telefone": "932799169",
-      "senha": "123457",
-      "codigo_convite": "1238884567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 20,
-      "nome": "Caita",
-      "telefone": "923222811",
-      "senha": "123457",
-      "codigo_convite": "123224567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 21,
-      "nome": "ndala",
-      "telefone": "934293030",
-      "senha": "123457",
-      "codigo_convite": "1231114567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 12.000
-    },
-    {
-      "id": 22,
-      "nome": "Abismal",
-      "telefone": "Abismall",
-      "senha": "123457",
-      "codigo_convite": "1233334567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 23.000
-    },
-    {
-      "id": 23,
-      "nome": "Jorge",
-      "telefone": "955469119",
-      "senha": "123457",
-      "codigo_convite": "1234444567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 223.000
-    },
-    {
-      "id": 24,
-      "nome": "Tito",
-      "telefone": "929791684",
-      "senha": "123457",
-      "codigo_convite": "12343334567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 25,
-      "nome": "Neto",
-      "telefone": "928797477",
-      "senha": "123457",
-      "codigo_convite": "1212334567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 26,
-      "nome": "julio",
-      "telefone": "951991407",
-      "senha": "123457",
-      "codigo_convite": "125433334567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 27,
-      "nome": "Micuia",
-      "telefone": "933360215",
-      "senha": "123457",
-      "codigo_convite": "1234123567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
-    },
-    {
-      "id": 28,
-      "nome": "Jorge",
-      "telefone": "925012230",
-      "senha": "123457",
-      "codigo_convite": "12341245567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 29,
-      "nome": "jose",
-      "telefone": "932047952",
-      "senha": "123457",
-      "codigo_convite": "12341234567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 2.500
-    },
-    {
-      "id": 30,
-      "nome": "Micuia",
-      "telefone": "9339360215",
-      "senha": "123457",
-      "codigo_convite": "125434567",
-      "codigo_convite_convidou": "9293456",
-      "saldo": 1.000
+      "nome": "João",
+      "email": "joao@example.com",
+      "senha": "senha123",
+      "codigo_convite": "ABC123",
+      "convidou_id": null,
+      "numero_convites": 3
     }
+    
   ],
-  "retiradas": [
+  "produtos": [
     {
       "id": 1,
-      "usuario_id": 1,
-      "valor": 1000.00,
-      "data": "2025-01-20",
-      "status": "concluída"
+      "nome": "Produto A",
+      "descricao": "Descrição do Produto A",
+      "preco": 50.00
     },
     {
       "id": 2,
-      "usuario_id": 2,
-      "valor": 500.00,
-      "data": "2025-01-25",
-      "status": "pendente"
+      "nome": "Produto B",
+      "descricao": "Descrição do Produto B",
+      "preco": 75.00
     }
   ],
   "depositos": [
     {
       "id": 1,
       "usuario_id": 1,
-      "valor": 2000.00,
-      "data": "2025-01-10",
-      "status": "concluído"
+      "valor": 200.00,
+      "metodo": "Boleto",
+      "data": "2025-01-28"
     },
     {
       "id": 2,
       "usuario_id": 2,
-      "valor": 1500.00,
-      "data": "2025-01-18",
-      "status": "concluído"
+      "valor": 300.00,
+      "metodo": "Transferência Bancária",
+      "data": "2025-01-29"
     }
   ]
 }
