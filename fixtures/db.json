@@ -9,7 +9,6 @@
       "convidou_id": null,
       "numero_convites": 3
     }
-    
   ],
   "produtos": [
     {
@@ -39,6 +38,22 @@
       "valor": 300.00,
       "metodo": "Transferência Bancária",
       "data": "2025-01-29"
+    }
+  ],
+  "retiradas": [
+    {
+      "id": 1,
+      "usuario_id": 1,
+      "valor": 50.00,
+      "metodo": "PIX",
+      "data": "2025-01-29"
+    },
+    {
+      "id": 2,
+      "usuario_id": 2,
+      "valor": 100.00,
+      "metodo": "TED",
+      "data": "2025-01-30"
     }
   ]
 }
