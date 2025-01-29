@@ -1,13 +1,149 @@
 {
   "usuarios": [
+
     {
-      "id": 1,
+      "id": "1",
       "nome": "João",
       "email": "joao@example.com",
       "senha": "senha123",
       "codigo_convite": "ABC123",
       "convidou_id": null,
       "numero_convites": 3
+    },
+    {
+      "id": "0cab",
+      "nome": "Francisco Ulica Xavi",
+      "telefone": "929250135",
+      "senha": "000000",
+      "codigo_convite": "gwgz49g6",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+    },
+    {
+      "id": "4447",
+      "nome": "Nenhum",
+      "telefone": "955469119",
+      "senha": "000000",
+      "codigo_convite": "gp8b6wl0",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 223000
+    },
+    {
+      "id": "4c66",
+      "nome": "Nenhum",
+      "telefone": "932799169",
+      "senha": "000000",
+      "codigo_convite": "mlqwbquj",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
+    },
+    {
+      "id": "5a36",
+      "nome": "Nenhum",
+      "telefone": "922623482",
+      "senha": "000000",
+      "codigo_convite": "xjqm3y2p",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "ceb5",
+      "nome": "Nenhum",
+      "telefone": "945479971",
+      "senha": "000000",
+      "codigo_convite": "e594hbap",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "6c76",
+      "nome": "Nenhum",
+      "telefone": "931275743",
+      "senha": "000000",
+      "codigo_convite": "cza7dpxq",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 23000
+    },
+    {
+      "id": "a501",
+      "nome": "Nenhum",
+      "telefone": "958425168",
+      "senha": "000000",
+      "codigo_convite": "kp5ogsni",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "6bf7",
+      "nome": "Nenhum",
+      "telefone": "933133874",
+      "senha": "000000",
+      "codigo_convite": "xkh1jhpv",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "b5b8",
+      "nome": "Nenhum",
+      "telefone": "932047952",
+      "senha": "000000",
+      "codigo_convite": "e7db63f3",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
+    },
+    {
+      "id": "fb2c",
+      "nome": "Nenhum",
+      "telefone": "933132428",
+      "senha": "000000",
+      "codigo_convite": "g46972l5",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "e815",
+      "nome": "Nenhum",
+      "telefone": "951199140",
+      "senha": "000000",
+      "codigo_convite": "izp4h9jt",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "5dad",
+      "nome": "Nenhum",
+      "telefone": "927393330",
+      "senha": "000000",
+      "codigo_convite": "rrxd9r0l",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 15000
+    },
+    {
+      "id": "3861",
+      "nome": "Nenhum",
+      "telefone": "927981219",
+      "senha": "000000",
+      "codigo_convite": "uks3e1um",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 23000
+    },
+    {
+      "id": "c392",
+      "nome": "Nenhum",
+      "telefone": "928453627",
+      "senha": "000000",
+      "codigo_convite": "nwfon22t",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "8df1",
+      "nome": "Nenhum",
+      "telefone": "921060456",
+      "senha": "000000",
+      "codigo_convite": "udrz15cy",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
     }
   ],
   "produtos": [
@@ -54,6 +190,159 @@
       "valor": 100.00,
       "metodo": "TED",
       "data": "2025-01-30"
+    },
+    {
+      "id": "9e9c",
+      "nome": "Nenhum",
+      "telefone": "931761370",
+      "senha": "000000",
+      "codigo_convite": "zm187fmn",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+    },
+    {
+      "id": "b9be",
+      "nome": "Nenhum",
+      "telefone": "934293030",
+      "senha": "000000",
+      "codigo_convite": "yml79888",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "b9be",
+      "nome": "Nenhum",
+      "telefone": "934293030",
+      "senha": "000000",
+      "codigo_convite": "yml79888",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "59cd",
+      "nome": "Nenhum",
+      "telefone": "948350590",
+      "senha": "000000",
+      "codigo_convite": "arht0ut8",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "3dbd",
+      "nome": "Nenhum",
+      "telefone": "938857542",
+      "senha": "000000",
+      "codigo_convite": "w9lhk3d9",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "fdd9",
+      "nome": "Nenhum",
+      "telefone": "923372721",
+      "senha": "000000",
+      "codigo_convite": "ys1sa1k0",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 10000
+    },
+    {
+      "id": "cb2f",
+      "nome": "Nenhum",
+      "telefone": "972219752",
+      "senha": "000000",
+      "codigo_convite": "twvzmmgj",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "1974",
+      "nome": "Nenhum",
+      "telefone": "923061566",
+      "senha": "000000",
+      "codigo_convite": "i6ej954d",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+    },
+    {
+      "id": "a5e6",
+      "nome": "Nenhum",
+      "telefone": "928933376",
+      "senha": "000000",
+      "codigo_convite": "pzsrz747",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "aaea",
+      "nome": "Nenhum",
+      "telefone": "922898405",
+      "senha": "000000",
+      "codigo_convite": "s50603bk",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
+    },
+    {
+      "id": "665a",
+      "nome": "Nenhum",
+      "telefone": "945884486",
+      "senha": "000000",
+      "codigo_convite": "b6no5kct",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+    },
+    {
+      "id": "f65f",
+      "nome": "Nenhum",
+      "telefone": "950563118",
+      "senha": "000000",
+      "codigo_convite": "0wmug9ad",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "bd85",
+      "nome": "Nenhum",
+      "telefone": "927397950",
+      "senha": "000000",
+      "codigo_convite": "vosdub36",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 1000
+    },
+    {
+      "id": "4afd",
+      "nome": "Nenhum",
+      "telefone": "947846625",
+      "senha": "000000",
+      "codigo_convite": "mlvr03km",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
+    },
+    {
+      "id": "1030",
+      "nome": "Nenhum",
+      "telefone": "928797477",
+      "senha": "000000",
+      "codigo_convite": "sj1cyul5",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
+    },
+    {
+      "id": "bdd1",
+      "nome": "Nenhum",
+      "telefone": "929791684",
+      "senha": "000000",
+      "codigo_convite": "sdb0q5he",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
+    },
+    {
+      "id": "ffc7",
+      "nome": "Sem nome",
+      "telefone": "932932020",
+      "senha": "000000",
+      "codigo_convite": "jk4vmbw0",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 2500
     }
   ]
 }
