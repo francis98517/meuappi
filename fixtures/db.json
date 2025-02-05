@@ -102,48 +102,45 @@
     }
   ],
   "produtos": [
-    {
-      "id": 1,
-      "nome": "Produto A",
-      "descricao": "Descrição do Produto A",
-      "preco": 50.00
-    },
-    {
-      "id": 2,
-      "nome": "Produto B",
-      "descricao": "Descrição do Produto B",
-      "preco": 75.00
-    },
-    {
-      "id": "d73e",
-      "usuarioId": "27bb",
-      "produto": "rico",
-      "valor": 12000,
-      "dataCompra": "2025-01-29T18:08:29.693Z"
-    },
-    {
-      "id": "0df1",
-      "usuarioId": "f8f1",
-      "produto": "pobre",
-      "valor": 2500,
-      "dataCompra": "2025-01-29T18:17:06.561Z"
-    }
-  ],
-  "depositos": [
-    {
-      "id": 1,
-      "usuario_id": 1,
-      "valor": 200.00,
-      "metodo": "Boleto",
-      "data": "2025-01-28"
-    },
-    {
-      "id": 2,
-      "usuario_id": 2,
-      "valor": 300.00,
-      "metodo": "Transferência Bancária",
-      "data": "2025-01-29"
-    }
+    
+  {
+    "id": "1",
+    "nome": "Produto A",
+    "descricao": "Descrição do Produto A",
+    "preco": 50
+  },
+  {
+    "id": "2",
+    "nome": "Produto B",
+    "descricao": "Descrição do Produto B",
+    "preco": 75
+  },
+  {
+    "id": "d73e",
+    "usuarioId": "27bb",
+    "produto": "rico",
+    "valor": 12000,
+    "dataCompra": "2025-01-29T18:08:29.693Z"
+  },
+  {
+    "id": "0df1",
+    "usuarioId": "f8f1",
+    "produto": "pobre",
+    "valor": 2500,
+    "dataCompra": "2025-01-29T18:17:06.561Z"
+  },
+  {
+    "id": "0ed7",
+    "usuarioId": "4617",
+    "produto": "superstar",
+    "dataCompra": "2025-02-05T19:09:40.551Z"
+  },
+  {
+    "id": "02b5",
+    "usuarioId": "4c66",
+    "produto": "superstar",
+    "dataCompra": "2025-02-05T19:47:32.894Z"
+  }
   ],
   "retiradas": [
     {
@@ -159,6 +156,15 @@
       "valor": 100.00,
       "metodo": "TED",
       "data": "2025-01-30"
-    }
+    },
+    {
+  "id": "dbbb",
+  "nome": "Sadrack ",
+  "telefone": "957452993",
+  "senha": "1246700",
+  "codigo_convite": "xmf2es7p",
+  "codigo_convite_referido": "ABC123",
+  "saldo": 0
+}
   ]
 }
