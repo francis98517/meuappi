@@ -144,6 +144,24 @@
       "codigo_convite": "d5b07gdi",
       "codigo_convite_referido": "ABC123",
       "saldo": 0
+    },
+    {
+      "id": "5872",
+      "nome": "Jhony ",
+      "telefone": "975265527",
+      "senha": "Ursinha",
+      "codigo_convite": "gzjn6hhq",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
+    },
+    {
+      "id": "284e",
+      "nome": "Jhony",
+      "telefone": "974265527",
+      "senha": "Ursinha",
+      "codigo_convite": "q8uykxwq",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
     }
   ],
   "produtos": [
@@ -156,7 +174,7 @@
   },
   {
     "id": "46cb",
-    "usuarioId": "5872",
+    "usuarioId": "24",
     "produto": "superstar",
     "dataCompra": "2025-02-06T14:57:09.484Z"
   },
@@ -188,7 +206,7 @@
     "saldo": 0
   },
   {
-    "id": "2",
+    "id": "",
     "nome": "Produto B",
     "descricao": "Descrição do Produto B",
     "preco": 75
@@ -216,6 +234,12 @@
   {
     "id": "02b5",
     "usuarioId": "4c66",
+    "produto": "superstar",
+    "dataCompra": "2025-02-05T19:47:32.894Z"
+  },
+  {
+    "id": "284e",
+    "usuarioId": "284e",
     "produto": "superstar",
     "dataCompra": "2025-02-05T19:47:32.894Z"
   }
