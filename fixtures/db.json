@@ -162,6 +162,15 @@
       "codigo_convite": "q8uykxwq",
       "codigo_convite_referido": "ABC123",
       "saldo": 0
+    },
+    {
+      "id": "7347",
+      "nome": "Viana Kapapelo ",
+      "telefone": "944210346",
+      "senha": "944210346",
+      "codigo_convite": "4xmeb0ei",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 12000
     }
   ],
   "produtos": [
