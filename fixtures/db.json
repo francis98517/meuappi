@@ -171,6 +171,15 @@
       "codigo_convite": "4xmeb0ei",
       "codigo_convite_referido": "ABC123",
       "saldo": 12000
+    },
+    {
+      "id": "959d",
+      "nome": "João Manuel Tchimbango Muyeba ",
+      "telefone": "923912407",
+      "senha": "520724",
+      "codigo_convite": "hnson40f",
+      "codigo_convite_referido": "ABC123",
+      "saldo": 0
     }
   ],
   "produtos": [
@@ -180,6 +189,12 @@
     "nome": "Produto A",
     "descricao": "Descrição do Produto A",
     "preco": 50
+  },
+  {
+    "id": "f71b",
+    "usuarioId": "959d",
+    "produto": "tycoon",
+    "dataCompra": "2025-02-06T16:11:00.971Z"
   },
   {
     "id": "46cb",
