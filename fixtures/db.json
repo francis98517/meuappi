@@ -155,6 +155,12 @@
     "preco": 50
   },
   {
+    "id": "46cb",
+    "usuarioId": "5872",
+    "produto": "superstar",
+    "dataCompra": "2025-02-06T14:57:09.484Z"
+  },
+  {
     "id": "c1ce",
     "usuarioId": "1f36",
     "produto": "tycoon",
