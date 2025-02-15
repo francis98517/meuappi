@@ -26,7 +26,7 @@
     "senha": "2ixwnt.a",
     "codigo_convite": "na3gle48",
     "codigo_convite_referido": "l1m2eq8s",
-    "saldo": 0
+    "saldo": 2400
   },
   {
     "id": "7309",
@@ -134,7 +134,7 @@
     "senha": "dalia07",
     "codigo_convite": "3auv5lmh",
     "codigo_convite_referido": "4a6klwgb",
-    "saldo": 0
+    "saldo": 800
   },
   {
     "id": "3596",
@@ -423,12 +423,117 @@
     "codigo_convite": "feowdpyi",
     "codigo_convite_referido": "wbnds55m",
     "saldo": 0
+  },
+  {
+    "id": "0522",
+    "nome": "Helder Miguel",
+    "telefone": "weizstar27@gmail.com",
+    "senha": "cafunfo",
+    "codigo_convite": "rzav0c36",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "5a05",
+    "nome": "António Alberto Mbiyeyi ",
+    "telefone": "922384558",
+    "senha": "Mbiyeyi66",
+    "codigo_convite": "d2yzgopf",
+    "codigo_convite_referido": "4a6klwgb",
+    "saldo": 0
+  },
+  {
+    "id": "091c",
+    "nome": "Helder Miguel",
+    "telefone": "972109644",
+    "senha": "cafunfo",
+    "codigo_convite": "4tx892bc",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "6237",
+    "nome": "Bento Kapondo ",
+    "telefone": "bentokapondo@gmail.com",
+    "senha": "Molossiwe",
+    "codigo_convite": "ekiguikq",
+    "codigo_convite_referido": "wbnds55m",
+    "saldo": 0
+  },
+  {
+    "id": "bee6",
+    "nome": "Jorge Nelson Pedro Campos ",
+    "telefone": "958255951",
+    "senha": "15081979",
+    "codigo_convite": "mdl1jjre",
+    "codigo_convite_referido": "3auv5lmh",
+    "saldo": 0
+  },
+  {
+    "id": "8164",
+    "nome": "Victorino ",
+    "telefone": "951414582",
+    "senha": "123456",
+    "codigo_convite": "eip5zptc",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "a83f",
+    "nome": "Figueiredo campos",
+    "telefone": "937477705",
+    "senha": "Figueiredo123",
+    "codigo_convite": "lg9dnadv",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "01ec",
+    "nome": "Tilson ",
+    "telefone": "944242563",
+    "senha": "944242563",
+    "codigo_convite": "nmppzoaq",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "de23",
+    "nome": "Antero Sousa ",
+    "telefone": "956833741",
+    "senha": "keuciarita1212",
+    "codigo_convite": "aw8rewdb",
+    "codigo_convite_referido": "alw7gjyw",
+    "saldo": 0
   }
   
 
 ],
-  "depositos": [],
+  "depositos": [{
+    "id": "1499",
+    "tipo": "Depósito",
+    "valor": 30000,
+    "data": "2025-02-15T19:29:30.809Z",
+    "usuarioId": "9663"
+  },
+  {
+    "id": "a9be",
+    "tipo": "Depósito",
+    "valor": 10000,
+    "data": "2025-02-15T20:45:41.018Z",
+    "usuarioId": "bee6"
+  }],
   "retiradas": [],
-  "produtos": [],
+  "produtos": [  {
+    "id": "4c01",
+    "usuarioId": "9663",
+    "produto": "tycoon",
+    "dataCompra": "2025-02-15T19:39:17.254Z"
+  },
+  {
+    "id": "022b",
+    "usuarioId": "bee6",
+    "produto": "superstar",
+    "dataCompra": "2025-02-15T21:00:24.032Z"
+  }],
   "vouchers": []
 }
