@@ -504,6 +504,96 @@
     "codigo_convite": "aw8rewdb",
     "codigo_convite_referido": "alw7gjyw",
     "saldo": 0
+  },
+  {
+    "id": "8cf1",
+    "nome": "Alexandre Patrício Limbata Coelho ",
+    "telefone": "923243943",
+    "senha": "$Alexandre12",
+    "codigo_convite": "s48xafb9",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "9703",
+    "nome": "Alexandre Patrício Limbata Coelho ",
+    "telefone": "923243943",
+    "senha": "$Alexandre12",
+    "codigo_convite": "ys0pb2w3",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "85b1",
+    "nome": "Alexandre Patrício Limbata Coelho ",
+    "telefone": "923243943",
+    "senha": "$Alexandre12",
+    "codigo_convite": "b6afjdit",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "9f23",
+    "nome": "Alexandre Patrício Limbata Coelho ",
+    "telefone": "923243943",
+    "senha": "$Alexandre12",
+    "codigo_convite": "xqswdouz",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "4254",
+    "nome": "Alexandre Patrício Limbata Coelho ",
+    "telefone": "923243943",
+    "senha": "$Alexandre12",
+    "codigo_convite": "i4ttvszi",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "cb4c",
+    "nome": "Adilson Miguel",
+    "telefone": "adilsondbmiguel@gmal.com",
+    "senha": "kL7RrdVyRmQU6ia",
+    "codigo_convite": "9knqzvyb",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "e2cd",
+    "nome": "Anthony Calamba ",
+    "telefone": "anthonymarketing65@gmail.com",
+    "senha": "Sambapito2",
+    "codigo_convite": "ach4rqz0",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "334c",
+    "nome": "Frederico Nangakoviye ",
+    "telefone": "940644786",
+    "senha": "Fredy236",
+    "codigo_convite": "iweknelz",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "be56",
+    "nome": "Francisco Catumbela ",
+    "telefone": "921198107",
+    "senha": "C4tumb3l4",
+    "codigo_convite": "w0k9tnch",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "a626",
+    "nome": "Sebastião Tchingango ",
+    "telefone": "922629722",
+    "senha": "197919",
+    "codigo_convite": "nkrtwkkq",
+    "codigo_convite_referido": "l1m2eq8s",
+    "saldo": 0
   }
   
 
@@ -522,7 +612,12 @@
     "data": "2025-02-15T20:45:41.018Z",
     "usuarioId": "bee6"
   }],
+
+
   "retiradas": [],
+
+
+
   "produtos": [  {
     "id": "4c01",
     "usuarioId": "9663",
@@ -535,5 +630,7 @@
     "produto": "superstar",
     "dataCompra": "2025-02-15T21:00:24.032Z"
   }],
+
+
   "vouchers": []
 }
