@@ -1017,6 +1017,123 @@
     "codigo_convite": "fal7pzli",
     "codigo_convite_referido": "wbnds55m",
     "saldo": 0
+  },
+  {
+    "id": "cb09",
+    "nome": "Gueury lukene ",
+    "telefone": "gueurydiasdossantos@gmail.com",
+    "senha": "C4mpos34",
+    "codigo_convite": "by2xfgi1",
+    "codigo_convite_referido": "de0yta5g",
+    "saldo": 0
+  },
+  {
+    "id": "2a68",
+    "nome": "Gueury lukene ",
+    "telefone": "oficialmulato30@gmail.com",
+    "senha": "C4mpos34",
+    "codigo_convite": "f3zs3syg",
+    "codigo_convite_referido": "de0yta5g",
+    "saldo": 0
+  },
+  {
+    "id": "128a",
+    "nome": "Delton Luciano Maindo",
+    "telefone": "lucianomaindo@gmail.com",
+    "senha": "Lucianodeydei@1",
+    "codigo_convite": "37s0pic7",
+    "codigo_convite_referido": "bzku0nzd",
+    "saldo": 0
+  },
+  {
+    "id": "9a71",
+    "nome": "Gueury lukene ",
+    "telefone": "922002285",
+    "senha": "C4mpos 34",
+    "codigo_convite": "i5dnrjb0",
+    "codigo_convite_referido": "de0yta5g",
+    "saldo": 0
+  },
+  {
+    "id": "eb92",
+    "nome": "Inácio Alexandre ",
+    "telefone": "946981698",
+    "senha": "Alexandre22",
+    "codigo_convite": "tpwblfyh",
+    "codigo_convite_referido": "wbnds55m",
+    "saldo": 0
+  },
+  {
+    "id": "1b79",
+    "nome": "Delton Luciano Maindo",
+    "telefone": "deltonluciano24@gmail.com",
+    "senha": "Lucianodeydei@1",
+    "codigo_convite": "dqmrjj7n",
+    "codigo_convite_referido": "bzku0nzd",
+    "saldo": 0
+  },
+  {
+    "id": "e5dd",
+    "nome": "Evandro",
+    "telefone": "952179693",
+    "senha": "654321",
+    "codigo_convite": "dft2ms34",
+    "codigo_convite_referido": "de0yta5g",
+    "saldo": 0
+  },
+  {
+    "id": "cb12",
+    "nome": "Euclides João ",
+    "telefone": "943196857",
+    "senha": "943196857",
+    "codigo_convite": "9tyb4wnu",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "9658",
+    "nome": "Delton Luciano Maindo",
+    "telefone": "942089405",
+    "senha": "12345678",
+    "codigo_convite": "njlsqc3e",
+    "codigo_convite_referido": "bzku0nzd",
+    "saldo": 0
+  },
+  {
+    "id": "a359",
+    "nome": "Abreu Costa ",
+    "telefone": "921982878",
+    "senha": "199409",
+    "codigo_convite": "r8e4escd",
+    "codigo_convite_referido": "wbnds55m",
+    "saldo": 0
+  },
+  {
+    "id": "5f62",
+    "nome": "Enoque André Elias",
+    "telefone": "mg4880472@gmail.com",
+    "senha": "366783",
+    "codigo_convite": "daigv5tx",
+    "codigo_convite_referido": "3auv5lmh",
+    "saldo": 0
+  },
+  {
+    "id": "eab1",
+    "nome": "Enoque André Elias",
+    "telefone": "927297956",
+    "senha": "366783",
+    "codigo_convite": "5azxf2cz",
+    "codigo_convite_referido": "3auv5lmh",
+    "saldo": 0
+  },
+  {
+    "id": "a204",
+    "nome": "Francisco Manuel Ernesto",
+    "telefone": "franciscomanual816@gmail.com",
+    "senha": "200100",
+    "codigo_convite": "eusf42ch",
+    "codigo_convite_referido": "de0yta5g",
+    "saldo": 0
   }
   
 
@@ -1062,6 +1179,20 @@
     "valor": 5500,
     "data": "2025-02-16T10:40:23.645Z",
     "usuarioId": "246a"
+  },
+  {
+    "id": "505e",
+    "tipo": "Depósito",
+    "valor": 10000,
+    "data": "2025-02-16T11:32:29.814Z",
+    "usuarioId": "a626"
+  },
+  {
+    "id": "7cd2",
+    "tipo": "Depósito",
+    "valor": 5500,
+    "data": "2025-02-16T11:41:58.251Z",
+    "usuarioId": "98fd"
   }],
 
 
@@ -1104,6 +1235,24 @@
     "usuarioId": "246a",
     "produto": "Min teste",
     "dataCompra": "2025-02-16T10:42:41.480Z"
+  },
+  {
+    "id": "0911",
+    "usuarioId": "a626",
+    "produto": "superstar",
+    "dataCompra": "2025-02-16T11:34:01.797Z"
+  },
+  {
+    "id": "e19b",
+    "usuarioId": "8634",
+    "produto": "superstar",
+    "dataCompra": "2025-02-16T11:43:53.031Z"
+  },
+  {
+    "id": "4115",
+    "usuarioId": "98fd",
+    "produto": "Min teste",
+    "dataCompra": "2025-02-16T11:53:45.836Z"
   }],
 
 
