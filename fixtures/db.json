@@ -134,7 +134,7 @@
     "senha": "dalia07",
     "codigo_convite": "3auv5lmh",
     "codigo_convite_referido": "4a6klwgb",
-    "saldo": 800
+    "saldo": 3800
   },
   {
     "id": "3596",
@@ -467,6 +467,15 @@
     "senha": "15081979",
     "codigo_convite": "mdl1jjre",
     "codigo_convite_referido": "3auv5lmh",
+    "saldo": 1000
+  },
+  {
+    "id": "94c3",
+    "nome": "Manoh Gabriel18",
+    "telefone": "928191541",
+    "senha": "qaspiJCvn4nSUkR",
+    "codigo_convite": "ms94ye99",
+    "codigo_convite_referido": "iq9q05bl",
     "saldo": 0
   },
   {
@@ -1836,6 +1845,96 @@
     "senha": "David01",
     "codigo_convite": "j8m32rz4",
     "codigo_convite_referido": "4a6klwgb",
+    "saldo": 0
+  },
+  {
+    "id": "01dc",
+    "nome": "Agelson Vibes 007",
+    "telefone": "922218051",
+    "senha": "cpnBZLg6AMqTkqZ",
+    "codigo_convite": "2giiph7r",
+    "codigo_convite_referido": "4a6klwgb",
+    "saldo": 0
+  },
+  {
+    "id": "11b1",
+    "nome": "Pedro Josué Zola",
+    "telefone": "pedrojosuezola@gmail.com",
+    "senha": "943230",
+    "codigo_convite": "uehe53y5",
+    "codigo_convite_referido": "shh63s6j",
+    "saldo": 0
+  },
+  {
+    "id": "ffdc",
+    "nome": "Fred costa",
+    "telefone": "933934193",
+    "senha": "160599",
+    "codigo_convite": "ki9lhmzf",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "5f92",
+    "nome": "Boaventura Mambo ",
+    "telefone": "923382450",
+    "senha": "Boaventura21@",
+    "codigo_convite": "ryetm5ny",
+    "codigo_convite_referido": "tpwblfyh",
+    "saldo": 0
+  },
+  {
+    "id": "7e4e",
+    "nome": "Marcelo Dande Bula",
+    "telefone": "927804891",
+    "senha": "MAXLOY",
+    "codigo_convite": "shujp2yk",
+    "codigo_convite_referido": "shh63s6j",
+    "saldo": 0
+  },
+  {
+    "id": "2e56",
+    "nome": "Mauro Stana ",
+    "telefone": "947576193",
+    "senha": "@Lina1418",
+    "codigo_convite": "k45bwlml",
+    "codigo_convite_referido": "shh63s6j",
+    "saldo": 0
+  },
+  {
+    "id": "428b",
+    "nome": "Osvaldo abano",
+    "telefone": "922462379",
+    "senha": "Abano39",
+    "codigo_convite": "fulvc6r1",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "ead0",
+    "nome": "Levy",
+    "telefone": "958926539",
+    "senha": "levy30@#",
+    "codigo_convite": "jqgwyyq7",
+    "codigo_convite_referido": "ryetm5ny",
+    "saldo": 0
+  },
+  {
+    "id": "8ed2",
+    "nome": "Manoh GMC",
+    "telefone": "manugabriel713@gmail.com",
+    "senha": "Gmc005#",
+    "codigo_convite": "8flkvag5",
+    "codigo_convite_referido": "bzku0nzd",
+    "saldo": 0
+  },
+  {
+    "id": "280d",
+    "nome": "Joaquim Francisco",
+    "telefone": "joaquim9francisco@gmail.com",
+    "senha": "#Kimkim",
+    "codigo_convite": "6lrr0z4i",
+    "codigo_convite_referido": "ryetm5ny",
     "saldo": 0
   }
   
