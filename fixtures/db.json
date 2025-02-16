@@ -98,7 +98,7 @@
     "senha": "MEssI123",
     "codigo_convite": "iq9q05bl",
     "codigo_convite_referido": "6w3qkiu3",
-    "saldo": 0
+    "saldo": 880
   },
   {
     "id": "0c41",
@@ -837,6 +837,186 @@
     "codigo_convite": "tics122m",
     "codigo_convite_referido": "iq9q05bl",
     "saldo": 0
+  },
+  {
+    "id": "21f9",
+    "nome": "Jorge Macaia ",
+    "telefone": "925012230",
+    "senha": "000000",
+    "codigo_convite": "rnhefd6d",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "5708",
+    "nome": "Francisco Neto ",
+    "telefone": "929060465",
+    "senha": "248650",
+    "codigo_convite": "1yjz0age",
+    "codigo_convite_referido": "23wpen89",
+    "saldo": 0
+  },
+  {
+    "id": "b3ec",
+    "nome": "Osvaldo Mateus",
+    "telefone": "944758468",
+    "senha": "944758468OMS",
+    "codigo_convite": "nbg6o7an",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "0c6e",
+    "nome": "Luzaiso Vieira",
+    "telefone": "950942887",
+    "senha": "923452545",
+    "codigo_convite": "bzku0nzd",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "e869",
+    "nome": "Adilson Prata",
+    "telefone": "945454794",
+    "senha": "414141",
+    "codigo_convite": "xga4vsqf",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "6142",
+    "nome": "Daniel Nsoki Mbimbu",
+    "telefone": "931129702",
+    "senha": "danilo30",
+    "codigo_convite": "h2aci3rn",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "dda2",
+    "nome": "Lucas Antonio",
+    "telefone": "922556922",
+    "senha": "232024",
+    "codigo_convite": "7l8zhlq0",
+    "codigo_convite_referido": "xga4vsqf",
+    "saldo": 0
+  },
+  {
+    "id": "16cd",
+    "nome": "Armando Vicente Mucambia ",
+    "telefone": "950519768",
+    "senha": "Am240801",
+    "codigo_convite": "p2glxsey",
+    "codigo_convite_referido": "4a6klwgb",
+    "saldo": 0
+  },
+  {
+    "id": "e6e3",
+    "nome": "Helio",
+    "telefone": "929052508",
+    "senha": "rielson20",
+    "codigo_convite": "jp5n3d78",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "1ac3",
+    "nome": "Alícia Rafaela Garcia Pedro ",
+    "telefone": "928371891",
+    "senha": "123456",
+    "codigo_convite": "cbzvdo9s",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "9b98",
+    "nome": "Samuel Antonio Zau",
+    "telefone": "952650667",
+    "senha": "Clementinazau@75731@",
+    "codigo_convite": "gx0s6cuu",
+    "codigo_convite_referido": "nb8jqq4p",
+    "saldo": 0
+  },
+  {
+    "id": "e537",
+    "nome": "Bento Tavares ",
+    "telefone": "932949525",
+    "senha": "Molossiwe1",
+    "codigo_convite": "rt82jbqz",
+    "codigo_convite_referido": "1yjz0age",
+    "saldo": 0
+  },
+  {
+    "id": "5449",
+    "nome": "Esperança Ndongala Kinanguidi",
+    "telefone": "esperancandongala3@gmail.com",
+    "senha": "j0sefin@",
+    "codigo_convite": "ilie8bwu",
+    "codigo_convite_referido": "w0k9tnch",
+    "saldo": 0
+  },
+  {
+    "id": "8634",
+    "nome": "Esperança Ndongala Kinanguidi",
+    "telefone": "935108308",
+    "senha": "josefina",
+    "codigo_convite": "xakuqgky",
+    "codigo_convite_referido": "w0k9tnch",
+    "saldo": 0
+  },
+  {
+    "id": "1ad3",
+    "nome": "Xavier Victor ",
+    "telefone": "932372212",
+    "senha": "123elaine",
+    "codigo_convite": "6fr9qssc",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "98fd",
+    "nome": "Gomes Jungo Da Conceição ",
+    "telefone": "952261447",
+    "senha": "Domingos",
+    "codigo_convite": "qiz6rv3f",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "cb0c",
+    "nome": "Manuel",
+    "telefone": "954967082",
+    "senha": "Manuel1",
+    "codigo_convite": "yiqn7sbc",
+    "codigo_convite_referido": "w0k9tnch",
+    "saldo": 0
+  },
+  {
+    "id": "e959",
+    "nome": "António Fernando",
+    "telefone": "922619835",
+    "senha": "922619",
+    "codigo_convite": "de0yta5g",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "baca",
+    "nome": "Gomito Caita",
+    "telefone": "demitrofcaita@gmail.com",
+    "senha": "Joseraldo1",
+    "codigo_convite": "6u8t3084",
+    "codigo_convite_referido": "hlzw8foc",
+    "saldo": 0
+  },
+  {
+    "id": "ef36",
+    "nome": "Gomito Caita",
+    "telefone": "923222811",
+    "senha": "Joseraldo1",
+    "codigo_convite": "fal7pzli",
+    "codigo_convite_referido": "wbnds55m",
+    "saldo": 0
   }
   
 
@@ -861,6 +1041,27 @@
     "valor": 5500,
     "data": "2025-02-16T08:31:47.298Z",
     "usuarioId": "4581"
+  },
+  {
+    "id": "fa04",
+    "tipo": "Depósito",
+    "valor": 5500,
+    "data": "2025-02-16T09:59:27.994Z",
+    "usuarioId": "9b98"
+  },
+  {
+    "id": "937c",
+    "tipo": "Depósito",
+    "valor": 5500,
+    "data": "2025-02-16T10:24:48.709Z",
+    "usuarioId": "be56"
+  },
+  {
+    "id": "d2b4",
+    "tipo": "Depósito",
+    "valor": 5500,
+    "data": "2025-02-16T10:40:23.645Z",
+    "usuarioId": "246a"
   }],
 
 
@@ -885,6 +1086,24 @@
     "usuarioId": "4581",
     "produto": "Min teste",
     "dataCompra": "2025-02-16T08:34:18.357Z"
+  },
+  {
+    "id": "9cf9",
+    "usuarioId": "9b98",
+    "produto": "Min teste",
+    "dataCompra": "2025-02-16T10:22:01.544Z"
+  },
+  {
+    "id": "aa86",
+    "usuarioId": "be56",
+    "produto": "Min teste",
+    "dataCompra": "2025-02-16T10:31:18.483Z"
+  },
+  {
+    "id": "708b",
+    "usuarioId": "246a",
+    "produto": "Min teste",
+    "dataCompra": "2025-02-16T10:42:41.480Z"
   }],
 
 
