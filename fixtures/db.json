@@ -783,6 +783,60 @@
     "codigo_convite": "otd7mxtf",
     "codigo_convite_referido": "3auv5lmh",
     "saldo": 0
+  },
+  {
+    "id": "d651",
+    "nome": "Gregório Daniel",
+    "telefone": "933653317",
+    "senha": "Mínimo",
+    "codigo_convite": "n4r6ksyx",
+    "codigo_convite_referido": "nb8jqq4p",
+    "saldo": 0
+  },
+  {
+    "id": "9d9e",
+    "nome": "Gregório Daniel",
+    "telefone": "93322653317",
+    "senha": "Mínimo",
+    "codigo_convite": "i2ehtcd7",
+    "codigo_convite_referido": "nb8jqq4p",
+    "saldo": 0
+  },
+  {
+    "id": "5a3b",
+    "nome": "Ernesto Gomes ",
+    "telefone": "922898405",
+    "senha": "922sara",
+    "codigo_convite": "jicorxgh",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
+  },
+  {
+    "id": "111",
+    "nome": "Piter ",
+    "telefone": "930502032",
+    "senha": "930502032",
+    "codigo_convite": "23wpen89",
+    "codigo_convite_referido": "iq9q05b",
+    "saldo": 0
+  },
+  {
+    "id": "98d2",
+    "nome": "Gomes Francisco ",
+    "telefone": "927978398",
+    "senha": "ABCDEF",
+    "codigo_convite": "ctwjboh7",
+    "codigo_convite_referido": "3auv5lmh",
+    "saldo": 0
+  },
+  {
+    "id": "05c4",
+    "nome": "Denová Mendes",
+    "telefone": "937740891",
+    "senha": "Denova007",
+    "codigo_convite": "tics122m",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
   }
   
 
@@ -800,6 +854,13 @@
     "valor": 10000,
     "data": "2025-02-15T20:45:41.018Z",
     "usuarioId": "bee6"
+  },
+  {
+    "id": "09c6",
+    "tipo": "Depósito",
+    "valor": 5500,
+    "data": "2025-02-16T08:31:47.298Z",
+    "usuarioId": "4581"
   }],
 
 
@@ -818,6 +879,12 @@
     "usuarioId": "bee6",
     "produto": "superstar",
     "dataCompra": "2025-02-15T21:00:24.032Z"
+  },
+  {
+    "id": "4be4",
+    "usuarioId": "4581",
+    "produto": "Min teste",
+    "dataCompra": "2025-02-16T08:34:18.357Z"
   }],
 
 
