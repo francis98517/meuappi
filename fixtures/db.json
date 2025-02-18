@@ -2710,6 +2710,15 @@
       "codigo_convite": "xc9ib2h5",
       "codigo_convite_referido": "ryetm5ny",
       "saldo": 0
+    },
+    {
+      "id": "8d59",
+      "nome": "José Pacato ",
+      "telefone": "949203245",
+      "senha": "Manuel",
+      "codigo_convite": "h7b1mfwq",
+      "codigo_convite_referido": "e697iyck",
+      "saldo": 0
     }
 ],
   
@@ -2805,7 +2814,15 @@
     "valor": 5500,
     "data": "2025-02-18T13:34:13.677Z",
     "usuarioId": "b4e8"
+  },
+  {
+    "id": "94b5",
+    "tipo": "Depósito",
+    "valor": 10000,
+    "data": "2025-02-18T15:07:32.964Z",
+    "usuarioId": "246a"
   }
+
 
 ],
 
@@ -2842,6 +2859,12 @@
     "dataCompra": "2025-02-15T19:39:17.254Z"
   },
   {
+    "id": "5822",
+    "usuarioId": "586f",
+    "produto": "tycoon",
+    "dataCompra": "2025-02-18T19:39:17.254Z"
+  },
+  {
     "id": "81e2",
     "usuarioId": "5718",
     "produto": "Min teste",
@@ -2870,6 +2893,12 @@
     "usuarioId": "9b98",
     "produto": "Min teste",
     "dataCompra": "2025-02-16T10:22:01.544Z"
+  },
+  {
+    "id": "8021",
+    "usuarioId": "246a",
+    "produto": "superstar",
+    "dataCompra": "2025-02-18T15:08:23.064Z"
   },
   {
     "id": "aa86",
