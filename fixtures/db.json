@@ -3279,7 +3279,7 @@
 ],
 
 
-  "retiradas": [ {
+  "vouchers": [ {
     "id": "d96c",
     "valor": 2950,
     "taxa": 383.5,
@@ -3455,5 +3455,5 @@
     }],
 
 
-  "vouchers": []
+  "retiradas": []
 }
