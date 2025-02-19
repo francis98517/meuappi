@@ -837,7 +837,7 @@
       "senha": "domingos77",
       "codigo_convite": "hlzw8foc",
       "codigo_convite_referido": "03isbpzn",
-      "saldo": 35
+      "saldo": 2635
     },
     {
       "id": "b4b9",
@@ -3007,7 +3007,322 @@
       "codigo_convite": "n95dzzy5",
       "codigo_convite_referido": "4a6klwgb",
       "saldo": 0
-    }],
+    },
+    {
+      "id": "673f",
+      "nome": "Wilson Mbala",
+      "telefone": "933739249",
+      "senha": "123456",
+      "codigo_convite": "5llohy8w",
+      "codigo_convite_referido": "ryetm5ny",
+      "saldo": 0
+    },
+    {
+      "id": "dda6",
+      "nome": "Delfina",
+      "telefone": "940715207",
+      "senha": "domingos77",
+      "codigo_convite": "8c274mne",
+      "codigo_convite_referido": "hlzw8foc",
+      "saldo": 0
+    },
+    {
+      "balance": 1,
+      "id": "4647"
+    },
+    {
+      "id": "871c",
+      "nome": "João Pinto",
+      "telefone": "926685177",
+      "senha": "whelchel24",
+      "codigo_convite": "plyo9i4t",
+      "codigo_convite_referido": "iq9q05bl",
+      "saldo": 0
+    },
+    {
+      "id": "dcb0",
+      "nome": "Aurélio chalé Cahombo ",
+      "telefone": "948360009",
+      "senha": "Arismar1",
+      "codigo_convite": "fn4yz9gx",
+      "codigo_convite_referido": "omg7tvvo",
+      "saldo": 0
+    },
+    {
+      "id": "af60",
+      "nome": "Luciano Alexandre ",
+      "telefone": "lucianodomingosalexandre@999gmail.com",
+      "senha": "Luciano69",
+      "codigo_convite": "n1d5lctz",
+      "codigo_convite_referido": "4a6klwgb",
+      "saldo": 0
+    },
+    {
+      "id": "f4ae",
+      "nome": "Luciano Alexandre ",
+      "telefone": "972682120",
+      "senha": "Luciano69",
+      "codigo_convite": "7jmc841t",
+      "codigo_convite_referido": "4a6klwgb",
+      "saldo": 0
+    }
+],
+  
+
+
+  "depositos": [
+    {
+      "id": "1499",
+      "tipo": "Depósito",
+      "valor": 30000,
+      "data": "2025-02-15T19:29:30.809Z",
+      "usuarioId": "9663"
+    },
+    {
+      "id": "6f69",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T15:19:08.129Z",
+      "usuarioId": "5718"
+    },
+    {
+      "id": "a9be",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-15T20:45:41.018Z",
+      "usuarioId": "bee6"
+    },
+    {
+      "id": "09c6",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T08:31:47.298Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "fa04",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T09:59:27.994Z",
+      "usuarioId": "9b98"
+    },
+    {
+      "id": "937c",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T10:24:48.709Z",
+      "usuarioId": "be56"
+    },
+    {
+      "id": "d2b4",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T10:40:23.645Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "505e",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-16T11:32:29.814Z",
+      "usuarioId": "a626"
+    },
+    {
+      "id": "7cd2",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T11:41:58.251Z",
+      "usuarioId": "98fd"
+    },
+    {
+      "id": "8949",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T13:04:43.151Z",
+      "usuarioId": "8a75"
+    },
+    {
+      "id": "6f6b",
+      "tipo": "Depósito",
+      "valor": 9450,
+      "data": "2025-02-17T13:37:16.479Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "9f12",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-18T08:42:40.383Z",
+      "usuarioId": "111"
+    },
+    {
+      "id": "1bdf",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-18T13:34:13.677Z",
+      "usuarioId": "b4e8"
+    },
+    {
+      "id": "94b5",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-18T15:07:32.964Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "770a",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T08:48:09.952Z",
+      "usuarioId": "111"
+    },
+    {
+      "id": "81fa",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T09:56:40.541Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "7a32",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T09:58:46.955Z",
+      "usuarioId": "9b98"
+    },
+    {
+      "id": "a635",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:28:17.758Z",
+      "usuarioId": "be56"
+    },
+    {
+      "id": "d54a",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:29:46.491Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "d008",
+      "tipo": "Depósito",
+      "valor": 700,
+      "data": "2025-02-19T10:31:48.785Z",
+      "usuarioId": "a626"
+    },
+    {
+      "id": "ef26",
+      "tipo": "Depósito",
+      "valor": 700,
+      "data": "2025-02-19T10:33:03.795Z",
+      "usuarioId": "8634"
+    },
+    {
+      "id": "ea42",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:34:26.862Z",
+      "usuarioId": "98fd"
+    },
+    {
+      "id": "b22c",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:07:14.320Z",
+      "usuarioId": "b8eb"
+    },
+    {
+      "id": "c428",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:33:35.633Z",
+      "usuarioId": "ba78"
+    },
+    {
+      "id": "64bb",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:41:08.030Z",
+      "usuarioId": "ba78"
+    },
+    {
+      "id": "7ca8",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T12:22:50.076Z",
+      "usuarioId": "8a75"
+    },
+    {
+      "id": "21e1",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T12:27:33.794Z",
+      "usuarioId": "b4e8"
+    },
+    {
+      "id": "f637",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T13:03:08.438Z",
+      "usuarioId": "428b"
+    },
+    {
+      "id": "001c",
+      "tipo": "Depósito",
+      "valor": 440,
+      "data": "2025-02-19T13:08:14.114Z",
+      "usuarioId": "cb1f"
+    }
+
+
+],
+
+
+  "retiradas": [ {
+    "id": "d96c",
+    "valor": 2950,
+    "taxa": 383.5,
+    "valorLiquido": 2566.5,
+    "iban": "0006 0000 26903968301 79",
+    "banco": "Banco de fomento Angola ",
+    "beneficiario": "Amândio Manuel Davela ",
+    "data": "2025-02-17T19:01:33.880Z",
+    "usuarioId": "8a75"
+  },
+  {
+    "id": "d983",
+    "valor": 2600,
+    "taxa": 338,
+    "valorLiquido": 2262,
+    "iban": "005500001876325110137",
+    "banco": "Millennium Atlântico ",
+    "beneficiario": "Serafim chimuco capamba ",
+    "data": "2025-02-19T17:33:26.010Z",
+    "usuarioId": "4581"
+  },
+  {
+    "id": "d96c",
+    "valor": 6800,
+    "taxa": 840,
+    "valorLiquido": 5960,
+    "iban": "0040 0000 27131071101 54",
+    "banco": "Banco de Investimento de Angola",
+    "beneficiario": "Idalina ",
+    "data": "2025-02-17T21:26:33.880Z",
+    "usuarioId": "9663"
+  },
+  {
+    "id": "0d32",
+    "valor": 4440,
+    "taxa": 577.2,
+    "valorLiquido": 3862.8,
+    "iban": "000600000403591730109",
+    "banco": "BFA",
+    "beneficiario": "Vadinho Martins Domingos Henriques",
+    "data": "2025-02-19T15:43:41.995Z",
+    "usuarioId": "cb1f"
+  }],
 
 
 
