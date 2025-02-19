@@ -1,8 +1,6 @@
 {
   "usuarios": [
-    
-  
-    
+   
   {
     "id": "1fbf",
     "nome": "Nenhum",
@@ -46,7 +44,7 @@
     "senha": "2ixwnt.a",
     "codigo_convite": "4a6klwgb",
     "codigo_convite_referido": "l1m2eq8s",
-    "saldo": 2400
+    "saldo": 2840
   },
   {
     "id": "dcd4",
@@ -217,7 +215,7 @@
     "senha": "Lsfive",
     "codigo_convite": "wbnds55m",
     "codigo_convite_referido": "l1m2eq8s",
-    "saldo": 1100
+    "saldo": 1485
   },
   {
     "id": "ea11",
@@ -370,7 +368,7 @@
     "senha": "Narcis00",
     "codigo_convite": "li3r6nq3",
     "codigo_convite_referido": "l1m2eq8s",
-    "saldo": 0
+    "saldo": 385
   },
   {
     "id": "1ca0",
@@ -658,7 +656,7 @@
     "senha": "C4tumb3l4",
     "codigo_convite": "w0k9tnch",
     "codigo_convite_referido": "iq9q05bl",
-    "saldo": 1100
+    "saldo": 1485
   },
   {
     "id": "a626",
@@ -667,7 +665,7 @@
     "senha": "197919",
     "codigo_convite": "nkrtwkkq",
     "codigo_convite_referido": "l1m2eq8s",
-    "saldo": 2000
+    "saldo": 2700
   },
   {
     "id": "412d",
@@ -838,7 +836,7 @@
     "senha": "domingos77",
     "codigo_convite": "hlzw8foc",
     "codigo_convite_referido": "03isbpzn",
-    "saldo": 1550
+    "saldo": 1935
   },
   {
     "id": "b4b9",
@@ -892,7 +890,7 @@
     "senha": "930502032",
     "codigo_convite": "23wpen89",
     "codigo_convite_referido": "iq9q05b",
-    "saldo": 0
+    "saldo": 385
   },
   {
     "id": "98d2",
@@ -1009,7 +1007,7 @@
     "senha": "Clementinazau@75731@",
     "codigo_convite": "gx0s6cuu",
     "codigo_convite_referido": "nb8jqq4p",
-    "saldo": 1100
+    "saldo": 1485
   },
   {
     "id": "e537",
@@ -1036,7 +1034,7 @@
     "senha": "josefina",
     "codigo_convite": "xakuqgky",
     "codigo_convite_referido": "w0k9tnch",
-    "saldo": 2000
+    "saldo": 2700
   },
   {
     "id": "1ad3",
@@ -1054,7 +1052,7 @@
     "senha": "Domingos",
     "codigo_convite": "qiz6rv3f",
     "codigo_convite_referido": "iq9q05bl",
-    "saldo": 1100
+    "saldo": 1485
   },
   {
     "id": "cb0c",
@@ -1243,7 +1241,7 @@
     "senha": "199797",
     "codigo_convite": "omg7tvvo",
     "codigo_convite_referido": "de0yta5g",
-    "saldo": 550
+    "saldo": 935
   },
   {
     "id": "c470",
@@ -2837,109 +2835,323 @@
     "codigo_convite": "8wjuafrm",
     "codigo_convite_referido": "omg7tvvo",
     "saldo": 0
+  },
+  {
+    "id": "160a",
+    "nome": "Jaime Osvaldo Mariti da Fonseca ",
+    "telefone": "osvaldomariti3@gmail.com",
+    "senha": "041297",
+    "codigo_convite": "ui699u22",
+    "codigo_convite_referido": "6fr9qssc",
+    "saldo": 0
+  },
+  {
+    "id": "4c0e",
+    "nome": "Jaime Osvaldo Mariti da Fonseca ",
+    "telefone": "935560748",
+    "senha": "041297",
+    "codigo_convite": "gtcjhuyb",
+    "codigo_convite_referido": "6fr9qssc",
+    "saldo": 0
+  },
+  {
+    "id": "501a",
+    "nome": "JOAO A KIENDISSA",
+    "telefone": "kiendissa6@gmail.com",
+    "senha": "939100375",
+    "codigo_convite": "ecl0gik5",
+    "codigo_convite_referido": "hj6vzlqm",
+    "saldo": 0
+  },
+  {
+    "id": "c482",
+    "nome": "JOAO A KIENDISSA",
+    "telefone": "kiendissa6@gmail.com",
+    "senha": "939100375",
+    "codigo_convite": "0oldk0n2",
+    "codigo_convite_referido": "hj6vzlqm",
+    "saldo": 0
+  },
+  {
+    "id": "7590",
+    "nome": "JOAO A KIENDISSA",
+    "telefone": "939100375",
+    "senha": "939100375",
+    "codigo_convite": "jyr67lmm",
+    "codigo_convite_referido": "hj6vzlqm",
+    "saldo": 0
+  },
+  {
+    "id": "72b4",
+    "nome": "Luís Gabriel chinguli Moisés ",
+    "telefone": "930121950",
+    "senha": "Nagary",
+    "codigo_convite": "a8a4nctv",
+    "codigo_convite_referido": "omg7tvvo",
+    "saldo": 0
+  },
+  {
+    "id": "2d32",
+    "nome": "Luís Gabriel chinguli Moisés ",
+    "telefone": "luisnagary@gmail.com",
+    "senha": "Nagary",
+    "codigo_convite": "292i1yss",
+    "codigo_convite_referido": "omg7tvvo",
+    "saldo": 0
+  },
+  {
+    "id": "1766",
+    "nome": "José Miguel Miguel ",
+    "telefone": "929349469",
+    "senha": "Miguel2002",
+    "codigo_convite": "8e6kabi1",
+    "codigo_convite_referido": "flpndhhf",
+    "saldo": 0
+  },
+  {
+    "id": "ba78",
+    "nome": "Sandra Inglês Celestino ",
+    "telefone": "929428477",
+    "senha": "Angola",
+    "codigo_convite": "cq7twet1",
+    "codigo_convite_referido": "dft2ms34",
+    "saldo": 0
+  },
+  {
+    "id": "0af9",
+    "nome": "Cabitango Marketing ",
+    "telefone": "926936319",
+    "senha": "ryetm5ny",
+    "codigo_convite": "gn1gq0jx",
+    "codigo_convite_referido": "ryetm5ny",
+    "saldo": 0
+  },
+  {
+    "id": "55b5",
+    "nome": "Geraldo Maurício",
+    "telefone": "929140579",
+    "senha": "2Q@78Q8@3r63A5f",
+    "codigo_convite": "g1w3wse5",
+    "codigo_convite_referido": "4a6klwgb",
+    "saldo": 0
+  },
+  {
+    "id": "4b68",
+    "nome": "Josué Sebastião",
+    "telefone": "937235170",
+    "senha": "Angolanoumm1",
+    "codigo_convite": "ma2nowe9",
+    "codigo_convite_referido": "iq9q05bl",
+    "saldo": 0
   }
 ],
   
 
 
-  "depositos": [{
-    "id": "1499",
-    "tipo": "Depósito",
-    "valor": 30000,
-    "data": "2025-02-15T19:29:30.809Z",
-    "usuarioId": "9663"
-  },
-  {
-    "id": "6f69",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T15:19:08.129Z",
-    "usuarioId": "5718"
-  },
-  {
-    "id": "a9be",
-    "tipo": "Depósito",
-    "valor": 10000,
-    "data": "2025-02-15T20:45:41.018Z",
-    "usuarioId": "bee6"
-  },
-  {
-    "id": "09c6",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T08:31:47.298Z",
-    "usuarioId": "4581"
-  },
-  {
-    "id": "fa04",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T09:59:27.994Z",
-    "usuarioId": "9b98"
-  },
-  {
-    "id": "937c",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T10:24:48.709Z",
-    "usuarioId": "be56"
-  },
-  {
-    "id": "d2b4",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T10:40:23.645Z",
-    "usuarioId": "246a"
-  },
-  {
-    "id": "505e",
-    "tipo": "Depósito",
-    "valor": 10000,
-    "data": "2025-02-16T11:32:29.814Z",
-    "usuarioId": "a626"
-  },
-  {
-    "id": "7cd2",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T11:41:58.251Z",
-    "usuarioId": "98fd"
-  },
-  {
-    "id": "8949",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-16T13:04:43.151Z",
-    "usuarioId": "8a75"
-  },
-  {
-    "id": "6f6b",
-    "tipo": "Depósito",
-    "valor": 9450,
-    "data": "2025-02-17T13:37:16.479Z",
-    "usuarioId": "4581"
-  },
-  {
-    "id": "9f12",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-18T08:42:40.383Z",
-    "usuarioId": "111"
-  },
-  {
-    "id": "1bdf",
-    "tipo": "Depósito",
-    "valor": 5500,
-    "data": "2025-02-18T13:34:13.677Z",
-    "usuarioId": "b4e8"
-  },
-  {
-    "id": "94b5",
-    "tipo": "Depósito",
-    "valor": 10000,
-    "data": "2025-02-18T15:07:32.964Z",
-    "usuarioId": "246a"
-  }
+  "depositos": [
+    {
+      "id": "1499",
+      "tipo": "Depósito",
+      "valor": 30000,
+      "data": "2025-02-15T19:29:30.809Z",
+      "usuarioId": "9663"
+    },
+    {
+      "id": "6f69",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T15:19:08.129Z",
+      "usuarioId": "5718"
+    },
+    {
+      "id": "a9be",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-15T20:45:41.018Z",
+      "usuarioId": "bee6"
+    },
+    {
+      "id": "09c6",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T08:31:47.298Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "fa04",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T09:59:27.994Z",
+      "usuarioId": "9b98"
+    },
+    {
+      "id": "937c",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T10:24:48.709Z",
+      "usuarioId": "be56"
+    },
+    {
+      "id": "d2b4",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T10:40:23.645Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "505e",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-16T11:32:29.814Z",
+      "usuarioId": "a626"
+    },
+    {
+      "id": "7cd2",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T11:41:58.251Z",
+      "usuarioId": "98fd"
+    },
+    {
+      "id": "8949",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-16T13:04:43.151Z",
+      "usuarioId": "8a75"
+    },
+    {
+      "id": "6f6b",
+      "tipo": "Depósito",
+      "valor": 9450,
+      "data": "2025-02-17T13:37:16.479Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "9f12",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-18T08:42:40.383Z",
+      "usuarioId": "111"
+    },
+    {
+      "id": "1bdf",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-18T13:34:13.677Z",
+      "usuarioId": "b4e8"
+    },
+    {
+      "id": "94b5",
+      "tipo": "Depósito",
+      "valor": 10000,
+      "data": "2025-02-18T15:07:32.964Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "770a",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T08:48:09.952Z",
+      "usuarioId": "111"
+    },
+    {
+      "id": "81fa",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T09:56:40.541Z",
+      "usuarioId": "4581"
+    },
+    {
+      "id": "7a32",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T09:58:46.955Z",
+      "usuarioId": "9b98"
+    },
+    {
+      "id": "a635",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:28:17.758Z",
+      "usuarioId": "be56"
+    },
+    {
+      "id": "d54a",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:29:46.491Z",
+      "usuarioId": "246a"
+    },
+    {
+      "id": "d008",
+      "tipo": "Depósito",
+      "valor": 700,
+      "data": "2025-02-19T10:31:48.785Z",
+      "usuarioId": "a626"
+    },
+    {
+      "id": "ef26",
+      "tipo": "Depósito",
+      "valor": 700,
+      "data": "2025-02-19T10:33:03.795Z",
+      "usuarioId": "8634"
+    },
+    {
+      "id": "ea42",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T10:34:26.862Z",
+      "usuarioId": "98fd"
+    },
+    {
+      "id": "b22c",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:07:14.320Z",
+      "usuarioId": "b8eb"
+    },
+    {
+      "id": "c428",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:33:35.633Z",
+      "usuarioId": "ba78"
+    },
+    {
+      "id": "64bb",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T11:41:08.030Z",
+      "usuarioId": "ba78"
+    },
+    {
+      "id": "7ca8",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T12:22:50.076Z",
+      "usuarioId": "8a75"
+    },
+    {
+      "id": "21e1",
+      "tipo": "Depósito",
+      "valor": 385,
+      "data": "2025-02-19T12:27:33.794Z",
+      "usuarioId": "b4e8"
+    },
+    {
+      "id": "f637",
+      "tipo": "Depósito",
+      "valor": 5500,
+      "data": "2025-02-19T13:03:08.438Z",
+      "usuarioId": "428b"
+    },
+    {
+      "id": "001c",
+      "tipo": "Depósito",
+      "valor": 440,
+      "data": "2025-02-19T13:08:14.114Z",
+      "usuarioId": "cb1f"
+    }
 
 
 ],
@@ -2970,102 +3182,127 @@
 
 
 
-  "produtos": [  {
-    "id": "4c01",
-    "usuarioId": "9663",
-    "produto": "tycoon",
-    "dataCompra": "2025-02-15T19:39:17.254Z"
-  },
-  {
-    "id": "5822",
-    "usuarioId": "586f",
-    "produto": "tycoon",
-    "dataCompra": "2025-02-18T19:39:17.254Z"
-  },
-  {
-    "id": "81e2",
-    "usuarioId": "5718",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T15:26:58.210Z"
-  },
-  {
-    "id": "464b",
-    "usuarioId": "111",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-18T08:44:12.169Z"
-  },
-  {
-    "id": "022b",
-    "usuarioId": "bee6",
-    "produto": "superstar",
-    "dataCompra": "2025-02-15T21:00:24.032Z"
-  },
-  {
-    "id": "4be4",
-    "usuarioId": "4581",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T08:34:18.357Z"
-  },
-  {
-    "id": "9cf9",
-    "usuarioId": "9b98",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T10:22:01.544Z"
-  },
-  {
-    "id": "8021",
-    "usuarioId": "246a",
-    "produto": "superstar",
-    "dataCompra": "2025-02-18T15:08:23.064Z"
-  },
-  {
-    "id": "aa86",
-    "usuarioId": "be56",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T10:31:18.483Z"
-  },
-  {
-    "id": "708b",
-    "usuarioId": "246a",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T10:42:41.480Z"
-  },
-  {
-    "id": "0911",
-    "usuarioId": "a626",
-    "produto": "superstar",
-    "dataCompra": "2025-02-16T11:34:01.797Z"
-  },
-  {
-    "id": "e19b",
-    "usuarioId": "8634",
-    "produto": "superstar",
-    "dataCompra": "2025-02-16T11:43:53.031Z"
-  },
-  {
-    "id": "4115",
-    "usuarioId": "98fd",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T11:53:45.836Z"
-  },
-  {
-    "id": "82b3",
-    "usuarioId": "8a75",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-16T13:08:22.348Z"
-  },
-  {
-    "id": "ddd8",
-    "usuarioId": "4581",
-    "produto": "superstar",
-    "dataCompra": "2025-02-17T13:40:34.014Z"
-  },
-  {
-    "id": "8015",
-    "usuarioId": "b4e8",
-    "produto": "Min teste",
-    "dataCompra": "2025-02-18T13:34:24.776Z"
-  }],
+  "produtos": [ 
+    {
+      "id": "4c01",
+      "usuarioId": "9663",
+      "produto": "tycoon",
+      "dataCompra": "2025-02-15T19:39:17.254Z"
+    },
+    {
+      "id": "5822",
+      "usuarioId": "586f",
+      "produto": "tycoon",
+      "dataCompra": "2025-02-18T19:39:17.254Z"
+    },
+    {
+      "id": "81e2",
+      "usuarioId": "5718",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T15:26:58.210Z"
+    },
+    {
+      "id": "464b",
+      "usuarioId": "111",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-18T08:44:12.169Z"
+    },
+    {
+      "id": "022b",
+      "usuarioId": "bee6",
+      "produto": "superstar",
+      "dataCompra": "2025-02-15T21:00:24.032Z"
+    },
+    {
+      "id": "4be4",
+      "usuarioId": "4581",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T08:34:18.357Z"
+    },
+    {
+      "id": "9cf9",
+      "usuarioId": "9b98",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T10:22:01.544Z"
+    },
+    {
+      "id": "8021",
+      "usuarioId": "246a",
+      "produto": "superstar",
+      "dataCompra": "2025-02-18T15:08:23.064Z"
+    },
+    {
+      "id": "aa86",
+      "usuarioId": "be56",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T10:31:18.483Z"
+    },
+    {
+      "id": "708b",
+      "usuarioId": "246a",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T10:42:41.480Z"
+    },
+    {
+      "id": "0911",
+      "usuarioId": "a626",
+      "produto": "superstar",
+      "dataCompra": "2025-02-16T11:34:01.797Z"
+    },
+    {
+      "id": "e19b",
+      "usuarioId": "8634",
+      "produto": "superstar",
+      "dataCompra": "2025-02-16T11:43:53.031Z"
+    },
+    {
+      "id": "4115",
+      "usuarioId": "98fd",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T11:53:45.836Z"
+    },
+    {
+      "id": "82b3",
+      "usuarioId": "8a75",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-16T13:08:22.348Z"
+    },
+    {
+      "id": "ddd8",
+      "usuarioId": "4581",
+      "produto": "superstar",
+      "dataCompra": "2025-02-17T13:40:34.014Z"
+    },
+    {
+      "id": "8015",
+      "usuarioId": "b4e8",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-18T13:34:24.776Z"
+    },
+    {
+      "id": "06c1",
+      "usuarioId": "b8eb",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-19T11:23:50.539Z"
+    },
+    {
+      "id": "4b2e",
+      "usuarioId": "ba78",
+      "produto": "superstar",
+      "dataCompra": "2025-02-19T11:51:00.491Z"
+    },
+    {
+      "id": "16be",
+      "usuarioId": "ba78",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-19T12:15:50.620Z"
+    },
+    {
+      "id": "6625",
+      "usuarioId": "428b",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-19T13:23:38.220Z"
+    }],
 
 
   "vouchers": []
