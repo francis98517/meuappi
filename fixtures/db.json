@@ -3455,5 +3455,48 @@
     }],
 
 
-  "retiradas": []
+  "retiradas": [{
+    "id": "d96c",
+    "valor": 2950,
+    "taxa": 383.5,
+    "valorLiquido": 2566.5,
+    "iban": "0006 0000 26903968301 79",
+    "banco": "Banco de fomento Angola ",
+    "beneficiario": "Amândio Manuel Davela ",
+    "data": "2025-02-17T19:01:33.880Z",
+    "usuarioId": "8a75"
+  },
+  {
+    "id": "d983",
+    "valor": 2600,
+    "taxa": 338,
+    "valorLiquido": 2262,
+    "iban": "005500001876325110137",
+    "banco": "Millennium Atlântico ",
+    "beneficiario": "Serafim chimuco capamba ",
+    "data": "2025-02-19T17:33:26.010Z",
+    "usuarioId": "4581"
+  },
+  {
+    "id": "d96c",
+    "valor": 6800,
+    "taxa": 840,
+    "valorLiquido": 5960,
+    "iban": "0040 0000 27131071101 54",
+    "banco": "Banco de Investimento de Angola",
+    "beneficiario": "Idalina ",
+    "data": "2025-02-17T21:26:33.880Z",
+    "usuarioId": "9663"
+  },
+  {
+    "id": "0d32",
+    "valor": 4440,
+    "taxa": 577.2,
+    "valorLiquido": 3862.8,
+    "iban": "000600000403591730109",
+    "banco": "BFA",
+    "beneficiario": "Vadinho Martins Domingos Henriques",
+    "data": "2025-02-19T15:43:41.995Z",
+    "usuarioId": "cb1f"
+  }]
 }
