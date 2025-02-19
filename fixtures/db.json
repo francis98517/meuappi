@@ -3178,6 +3178,17 @@
     "beneficiario": "Idalina ",
     "data": "2025-02-17T21:26:33.880Z",
     "usuarioId": "9663"
+  },
+  {
+    "id": "0d32",
+    "valor": 4440,
+    "taxa": 577.2,
+    "valorLiquido": 3862.8,
+    "iban": "000600000403591730109",
+    "banco": "BFA",
+    "beneficiario": "Vadinho Martins Domingos Henriques",
+    "data": "2025-02-19T15:43:41.995Z",
+    "usuarioId": "cb1f"
   }],
 
 
@@ -3302,6 +3313,12 @@
       "usuarioId": "428b",
       "produto": "Min teste",
       "dataCompra": "2025-02-19T13:23:38.220Z"
+    },
+    {
+      "id": "ab33",
+      "usuarioId": "55b5",
+      "produto": "visionary",
+      "dataCompra": "2025-02-19T15:46:22.755Z"
     }],
 
 
