@@ -215,7 +215,7 @@
       "senha": "Lsfive",
       "codigo_convite": "wbnds55m",
       "codigo_convite_referido": "l1m2eq8s",
-      "saldo": 2885
+      "saldo": 3585
     },
     {
       "id": "ea11",
@@ -368,7 +368,7 @@
       "senha": "Narcis00",
       "codigo_convite": "li3r6nq3",
       "codigo_convite_referido": "l1m2eq8s",
-      "saldo": 1085
+      "saldo": 1470
     },
     {
       "id": "1ca0",
@@ -1385,7 +1385,7 @@
       "senha": "808080",
       "codigo_convite": "7d3xi0hd",
       "codigo_convite_referido": "4a6klwgb",
-      "saldo": 2670
+      "saldo": 2820
     },
     {
       "id": "6825",
@@ -1457,7 +1457,7 @@
       "senha": "Pass-515",
       "codigo_convite": "1ei3rkxl",
       "codigo_convite_referido": "7d3xi0hd",
-      "saldo": 700
+      "saldo": 0
     },
     {
       "id": "a5b0",
@@ -2825,7 +2825,7 @@
       "senha": "gggggg",
       "codigo_convite": "flpndhhf",
       "codigo_convite_referido": "qiz6rv3f",
-      "saldo": 825
+      "saldo": 1475
     },
     {
       "id": "daa8",
@@ -3271,6 +3271,42 @@
       "codigo_convite": "vmxsxks4",
       "codigo_convite_referido": "flpndhhf",
       "saldo": 0
+    },
+    {
+      "id": "9ce3",
+      "nome": "Arnaldo Manuel",
+      "telefone": "940993822",
+      "senha": "Manuel123",
+      "codigo_convite": "m9zxssz2",
+      "codigo_convite_referido": "nkrtwkkq",
+      "saldo": 0
+    },
+    {
+      "id": "0912",
+      "nome": "Helder Ekolelo Mário ",
+      "telefone": "heldermariomariohelder@gmail.com",
+      "senha": "282828",
+      "codigo_convite": "uieul2yi",
+      "codigo_convite_referido": "1ei3rkxl",
+      "saldo": 0
+    },
+    {
+      "id": "d191",
+      "nome": "Helder Ekolelo Mário ",
+      "telefone": "922895359",
+      "senha": "282828",
+      "codigo_convite": "dgvwtu8m",
+      "codigo_convite_referido": "1ei3rkxl",
+      "saldo": 0
+    },
+    {
+      "id": "07f7",
+      "nome": "Amadeu Massala",
+      "telefone": "923594998",
+      "senha": "654321",
+      "codigo_convite": "2w2o4ckn",
+      "codigo_convite_referido": "flpndhhf",
+      "saldo": 0
     }
 
 
@@ -3503,6 +3539,18 @@
     "banco": "Bai",
     "beneficiario": "Horácio kayawe cassinda ",
     "data": "2025-02-20T11:59:14.652Z",
+    "usuarioId": "b264",
+    "status": "Aprovado"
+  },
+  {
+    "id": "761d",
+    "valor": 5450,
+    "taxa": 872,
+    "valorLiquido": 4578,
+    "iban": "AO06004000004180935810137",
+    "banco": "Bai",
+    "beneficiario": "Horácio kayawe cassinda ",
+    "data": "2025-02-20T21:45:09.600Z",
     "usuarioId": "b264",
     "status": "Aprovado"
   }]
