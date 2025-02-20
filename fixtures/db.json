@@ -1,7 +1,6 @@
 {
   "usuarios": [
-   
- 
+
     {
       "id": "1fbf",
       "nome": "Nenhum",
@@ -2520,7 +2519,7 @@
       "senha": "9489261",
       "codigo_convite": "r79lmw0d",
       "codigo_convite_referido": "omg7tvvo",
-      "saldo": 4200
+      "saldo": 0
     },
     {
       "id": "e3e1",
@@ -2826,7 +2825,7 @@
       "senha": "gggggg",
       "codigo_convite": "flpndhhf",
       "codigo_convite_referido": "qiz6rv3f",
-      "saldo": 0
+      "saldo": 440
     },
     {
       "id": "daa8",
@@ -3083,7 +3082,125 @@
       "codigo_convite": "fi34ul9d",
       "codigo_convite_referido": "omg7tvvo",
       "saldo": 0
+    },
+    {
+      "id": "22b8",
+      "nome": "Kanjinga Franco dos Santos ",
+      "telefone": "924620405",
+      "senha": "kanjinga002",
+      "codigo_convite": "t9qkdxli",
+      "codigo_convite_referido": "flpndhhf",
+      "saldo": 0
+    },
+    {
+      "id": "b21e",
+      "nome": "Kanjinga Franco dos Santos ",
+      "telefone": "924620405",
+      "senha": "kanjinga002",
+      "codigo_convite": "mmeslcvn",
+      "codigo_convite_referido": "flpndhhf",
+      "saldo": 0
+    },
+    {
+      "id": "4bdd",
+      "nome": "Miguel Cuyanda ",
+      "telefone": "933165068",
+      "senha": "miguelcuyanda2",
+      "codigo_convite": "rbq39m4h",
+      "codigo_convite_referido": "7d3xi0hd",
+      "saldo": 0
+    },
+    {
+      "id": "0838",
+      "nome": "Paulino Viana",
+      "telefone": "alfaitariafunafashion@gmail.com",
+      "senha": "Paulino@",
+      "codigo_convite": "yyz8cf1r",
+      "codigo_convite_referido": "omg7tvvo",
+      "saldo": 0
+    },
+    {
+      "id": "372d",
+      "nome": "Mateus Capita",
+      "telefone": "937450978",
+      "senha": "Promessa07",
+      "codigo_convite": "ue886817",
+      "codigo_convite_referido": "flpndhhf",
+      "saldo": 0
+    },
+    {
+      "id": "6557",
+      "nome": "Ivandro Augusto Tumbo ",
+      "telefone": "ivandroaugustoa@gmail.com",
+      "senha": "Aristides",
+      "codigo_convite": "4rihaqud",
+      "codigo_convite_referido": "flpndhhf",
+      "saldo": 0
+    },
+    {
+      "id": "40e7",
+      "nome": "Celeste Vieira Xirimbimbi ",
+      "telefone": "943962150",
+      "senha": "123456",
+      "codigo_convite": "tsg2bsmo",
+      "codigo_convite_referido": "omg7tvvo",
+      "saldo": 0
+    },
+    {
+      "id": "4394",
+      "nome": "Isaac Neto",
+      "telefone": "Climaperfeito@icloud.com",
+      "senha": "Bravo.9",
+      "codigo_convite": "0wik7e67",
+      "codigo_convite_referido": "de0yta5g",
+      "saldo": 0
+    },
+    {
+      "id": "72a7",
+      "nome": "António Francisco ",
+      "telefone": "damiaoximilson@mail.com",
+      "senha": "ximi2003",
+      "codigo_convite": "daaeoaet",
+      "codigo_convite_referido": "l1m2eq8s",
+      "saldo": 0
+    },
+    {
+      "id": "707c",
+      "nome": "António Francisco ",
+      "telefone": "921022135",
+      "senha": "ximi2003",
+      "codigo_convite": "x6bisfio",
+      "codigo_convite_referido": "l1m2eq8s",
+      "saldo": 0
+    },
+    {
+      "id": "a240",
+      "nome": "Albertina Sapalo ",
+      "telefone": "927269648",
+      "senha": "199409",
+      "codigo_convite": "g2oeaaxm",
+      "codigo_convite_referido": "r8e4escd",
+      "saldo": 0
+    },
+    {
+      "id": "66a2",
+      "nome": "Mariano Briisa",
+      "telefone": "933158811",
+      "senha": "199409",
+      "codigo_convite": "o6u1nj86",
+      "codigo_convite_referido": "r8e4escd",
+      "saldo": 0
+    },
+    {
+      "id": "3620",
+      "nome": "Arnaldo Manuel",
+      "telefone": "arnaldomanuel98@gmail.com",
+      "senha": "Manuel123",
+      "codigo_convite": "7bceuafz",
+      "codigo_convite_referido": "nkrtwkkq",
+      "saldo": 0
     }
+
 
 
 ],
@@ -3099,6 +3216,12 @@
       "usuarioId": "9663",
       "produto": "tycoon",
       "dataCompra": "2025-02-15T19:39:17.254Z"
+    },
+    {
+      "id": "5ae6",
+      "usuarioId": "372d",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-20T10:09:01.749Z"
     },
     {
       "id": "4678",
@@ -3277,5 +3400,27 @@
     "beneficiario": "Vadinho Martins Domingos Henriques",
     "data": "2025-02-19T15:43:41.995Z",
     "usuarioId": "cb1f"
+  },
+  {
+    "id": "ca82",
+    "valor": 4200,
+    "taxa": 672,
+    "valorLiquido": 3528,
+    "iban": "0040 0000 69083894101 84",
+    "banco": "BAI",
+    "beneficiario": "Paulo Adão Wombili ",
+    "data": "2025-02-20T09:52:38.000Z",
+    "usuarioId": "586f"
+  },
+  {
+    "id": "66f7",
+    "valor": 3000,
+    "taxa": 480,
+    "valorLiquido": 2520,
+    "iban": "AO06004000004180935810137",
+    "banco": "Bai",
+    "beneficiario": "Horácio kayawe cassinda ",
+    "data": "2025-02-20T11:59:14.652Z",
+    "usuarioId": "b264"
   }]
 }
