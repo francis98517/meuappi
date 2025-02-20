@@ -3468,6 +3468,12 @@
       "usuarioId": "b264",
       "produto": "superstar",
       "dataCompra": "2025-02-20T11:44:22.755Z"
+    },
+    {
+      "id": "004b",
+      "usuarioId": "b264",
+      "produto": "Min teste",
+      "dataCompra": "2025-02-20T22:44:12.169Z"
     }],
 
 
