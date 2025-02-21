@@ -836,7 +836,7 @@
       "senha": "domingos77",
       "codigo_convite": "hlzw8foc",
       "codigo_convite_referido": "03isbpzn",
-      "saldo": 3020
+      "saldo": 0
     },
     {
       "id": "b4b9",
@@ -3316,6 +3316,60 @@
       "codigo_convite": "uwqkksq3",
       "codigo_convite_referido": "1ei3rkxl",
       "saldo": 0
+    },
+    {
+      "id": "6c6f",
+      "nome": "Kelson",
+      "telefone": "925354509",
+      "senha": "kelson12",
+      "codigo_convite": "65b3vc5i",
+      "codigo_convite_referido": "ev3dup46",
+      "saldo": 0
+    },
+    {
+      "id": "ad28",
+      "nome": "Hipupulua Hamuyela ",
+      "telefone": "959625500",
+      "senha": "Hipupulua",
+      "codigo_convite": "jtcrvrzf",
+      "codigo_convite_referido": "1ei3rkxl",
+      "saldo": 0
+    },
+    {
+      "id": "a125",
+      "nome": "Victória ",
+      "telefone": "953076551",
+      "senha": "Sucesso4ever8",
+      "codigo_convite": "27n7r25y",
+      "codigo_convite_referido": "4a6klwgb",
+      "saldo": 0
+    },
+    {
+      "id": "f0e1",
+      "nome": "Manuel da costa Rogerio",
+      "telefone": "manueldacostarogerio@gmail.com",
+      "senha": "Manuel",
+      "codigo_convite": "yqzmbeet",
+      "codigo_convite_referido": "iq9q05bl",
+      "saldo": 0
+    },
+    {
+      "id": "811b",
+      "nome": "Manuel",
+      "telefone": "937824814",
+      "senha": "Manuel",
+      "codigo_convite": "1qdfjrkb",
+      "codigo_convite_referido": "iq9q05bl",
+      "saldo": 0
+    },
+    {
+      "id": "982b",
+      "nome": "Rui bastos",
+      "telefone": "923660693",
+      "senha": "Santacomba1978",
+      "codigo_convite": "orkimnk4",
+      "codigo_convite_referido": "iq9q05bl",
+      "saldo": 0
     }
 
 
@@ -3351,6 +3405,12 @@
       "usuarioId": "586f",
       "produto": "tycoon",
       "dataCompra": "2025-02-18T19:39:17.254Z"
+    },
+    {
+      "id": "01c0",
+      "usuarioId": "1977",
+      "produto": "mogul",
+      "dataCompra": "2025-02-21T11:37:48.011Z"
     },
     {
       "id": "93ef",
@@ -3568,5 +3628,16 @@
     "data": "2025-02-20T21:45:09.600Z",
     "usuarioId": "b264",
     "status": "Aprovado"
+  },
+  {
+    "id": "dc49",
+    "valor": 3020,
+    "taxa": 483.2,
+    "valorLiquido": 2536.8,
+    "iban": "005500001876325110137",
+    "banco": "Millennium Atlântico ",
+    "beneficiario": "Serafim chimuco capamba.",
+    "data": "2025-02-21T11:05:02.081Z",
+    "usuarioId": "4581"
   }]
 }
