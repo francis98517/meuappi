@@ -1,5 +1,13 @@
 {
-  "usuarios": [],
+  "usuarios": [{
+    "id": "pyqpu7",
+    "nome": "Alexandre Cabanga",
+    "telefone": "945884486",
+    "senha": "Dicla1313/",
+    "codigo_convite": "uhj0j7fbv",
+    "codigo_convite_referido": "ij190pk3",
+    "saldo": 0
+  }],
 
   "vouchers": [],
 
