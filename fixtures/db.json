@@ -1,5 +1,13 @@
 {
-  "usuarios":[],
+  "usuarios":[  {
+    "id": "5c92te",
+    "nome": "Cesar Eurico",
+    "telefone": "948283512",
+    "senha": "chongolola",
+    "codigo_convite": "gyk2ta566",
+    "codigo_convite_referido": "6yvpbje4k",
+    "saldo": 1400
+  }],
 
   "vouchers": [],
 
@@ -11,31 +19,7 @@
   "retiradas": [ ],
 
 
-  "footer": [ {
-  "footer": [
-    {
-      "name": "About",
-      "url": "https://www.catocafund.com/public/site/img/footer/about.png"
-    },
-    {
-      "name": "Account Active",
-      "url": "https://www.catocafund.com/public/site/img/footer/account_active.png"
-    },
-    {
-      "name": "Home",
-      "url": "https://www.catocafund.com/public/site/img/footer/home.png"
-    },
-    {
-      "name": "Invest",
-      "url": "https://www.catocafund.com/public/site/img/footer/invest.png"
-    },
-    {
-      "name": "MBoard",
-      "url": "https://www.catocafund.com/public/site/img/footer/mboard.png"
-    }
-  ]
-}
-],
+  "footer": [],
 
 
   "depositos": [ ]
